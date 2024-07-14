@@ -1,0 +1,7 @@
+# FTP
+
+File Transfer Protocol(FTP) is `TCP/IP` based application layer communication protocol that helps transferring files between local and remote file systems over the network. To transfer a file, 2 TCP connections(control connection and data connection) are used in parallel.
+
+Visit the following resources to learn more:
+
+- [@article@FTP vs SFTP vs FTPS](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning)
