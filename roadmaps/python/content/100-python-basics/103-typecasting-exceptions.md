@@ -1,9 +1,8 @@
-## Typecasting
+## تبدیل نوع
 
-The process of converting the value of one data type (integer, string, float, etc.) to another data type is called type conversion. Python has two types of type conversion: Implicit and Explicit.
+فرآیند تبدیل مقدار یک نوع داده (integer, string, float, etc) به نوع داده دیگر، تبدیل نوع نامیده می شود. پایتون دو نوع تبدیل نوع دارد: Implicit و Explicit
 
-Visit the following resources to learn more:
-
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 - [@article@Type Conversion and Casting](https://www.programiz.com/python-programming/type-conversion-and-casting)
 - [@article@Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
 - [@article@Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
