@@ -1,3 +1,3 @@
-# Coding
+# کد نویسی
 
-Programming is a fundamental skill for data scientists. You need to be able to write code to manipulate data, build models, and deploy solutions. The most common programming languages used in data science are Python and R. Python is a general-purpose programming language that is easy to learn and has a large number of libraries for data manipulation and machine learning. R is a programming language and free software environment for statistical computing and graphics. It is widely used for statistical analysis and data visualization.
+> برنامه نویسی یک مهارت اساسی برای دانشمندان داده است. شما باید به عنوان یک دانشمند داده بتوانید برای دستکاری داده ها، ساختن مدل های مختلف و پیاده‌سازی راه‌حل‌ها قادر به کدنویسی باشید. رایج ترین زبان های برنامه نویسی مورد استفاده در علم داده R و Python هستند. پایتون یک زبان برنامه نویسی همه منظوره است که یادگیری آن آسان است و تعداد زیادی کتابخانه برای دستکاری داده ها و یادگیری ماشین دارد. R یک زبان برنامه نویسی و محیط نرم افزاری رایگان برای محاسبات آماری و گرافیک است. به طور گسترده ای برای تجزیه و تحلیل آماری و تجسم داده ها استفاده می شود.
