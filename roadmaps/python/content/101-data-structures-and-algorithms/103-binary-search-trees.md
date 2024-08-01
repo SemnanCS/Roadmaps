@@ -1,8 +1,8 @@
-# Binary Search Trees
+# درخت‌های جستجوی دودویی (Binary Search Trees)
 
-A binary search tree, also called an ordered or sorted binary tree, is a rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree
+درخت جستجوی دودویی که به آن درخت دودویی مرتب یا مرتب‌شده نیز گفته می‌شود، یک ساختار داده درخت دودویی ریشه‌دار است که کلید هر گره داخلی آن بزرگ‌تر از تمام کلیدهای زیردرخت چپ مربوط به آن گره و کوچک‌تر از کلیدهای زیردرخت راست آن است.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@video@Tree Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
 - [@article@Writing a Binary Search Tree in Python With Examples](https://blog.boot.dev/computer-science/binary-search-tree-in-python/)
