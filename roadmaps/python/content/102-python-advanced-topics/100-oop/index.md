@@ -1,8 +1,8 @@
-# OOP
+# برنامه‌نویسی شیءگرا (OOP)
 
-In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data.
+در پایتون، برنامه‌نویسی شیءگرا (OOP) یک پارادایم برنامه‌نویسی است که از اشیاء و کلاس‌ها در برنامه‌نویسی استفاده می‌کند. هدف آن پیاده‌سازی موجودات دنیای واقعی مانند وراثت، چندریختی، و کپسوله‌سازی در برنامه‌نویسی است. مفهوم اصلی OOP این است که داده‌ها و توابعی که بر روی آنها عمل می‌کنند، به عنوان یک واحد واحد بسته‌بندی شوند تا هیچ بخش دیگری از کد نتواند به این داده‌ها دسترسی پیدا کند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Object Oriented Programming in Python](https://realpython.com/python3-object-oriented-programming/)
 - [@video@Object Oriented Programming (OOP) In Python - Beginner Crash Course](https://www.youtube.com/watch?v=-pEs-Bss8Wc/)
