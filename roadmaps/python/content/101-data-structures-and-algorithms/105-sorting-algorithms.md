@@ -1,10 +1,10 @@
-# Sorting Algorithms
+# الگوریتم‌های مرتب‌سازی (Sorting Algorithms)
 
-Sorting refers to arranging data in a particular format. Sorting algorithm specifies the way to arrange data in a particular order. Most common orders are in numerical or lexicographical order.
+مرتب‌سازی به معنای ترتیب دادن داده‌ها در یک قالب خاص است. الگوریتم مرتب‌سازی نحوه ترتیب دادن داده‌ها را به صورت یک نظم خاص مشخص می‌کند. معمول‌ترین نظم‌ها به ترتیب عددی یا حروفی هستند.
 
-The importance of sorting lies in the fact that data searching can be optimized to a very high level, if data is stored in a sorted manner.
+اهمیت مرتب‌سازی در این است که جستجوی داده‌ها می‌تواند به سطح بسیار بالایی بهینه شود، اگر داده‌ها به صورت مرتب ذخیره شوند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Sorting Algorithms in Python](https://realpython.com/sorting-algorithms-python/)
 - [@article@Python - Sorting Algorithms](https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm)
