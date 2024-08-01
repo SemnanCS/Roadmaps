@@ -1,8 +1,8 @@
-# Recursion
+# بازگشت (Recursion)
 
-Recursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem. Recursion solves such recursive problems by using functions that call themselves from within their own code.
+بازگشت یک روش حل مسئله محاسباتی است که در آن راه‌حل به راه‌حل‌هایی برای نمونه‌های کوچکتر از همان مسئله بستگی دارد. بازگشت، چنین مسائل بازگشتی را با استفاده از توابعی که از داخل کد خودشان، خودشان را فراخوانی می‌کنند، حل می‌کند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Recursion in Python: An Introduction](https://realpython.com/python-recursion/)
 - [@feed@Explore top posts about Recursion](https://app.daily.dev/tags/recursion?ref=roadmapsh)
