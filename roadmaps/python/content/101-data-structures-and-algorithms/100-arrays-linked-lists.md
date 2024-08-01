@@ -1,8 +1,8 @@
-# Arrays and Linked lists
+# آرایه ها و لیست پیوندی
 
-Arrays store elements in contiguous memory locations, resulting in easily calculable addresses for the elements stored and this allows faster access to an element at a specific index. Linked lists are less rigid in their storage structure and elements are usually not stored in contiguous locations, hence they need to be stored with additional tags giving a reference to the next element. This difference in the data storage scheme decides which data structure would be more suitable for a given situation.
+آرایه‌ها عناصر را در مکان‌های حافظه پیوسته ذخیره می‌کنند، که منجر به آدرس‌های قابل محاسبه آسان برای عناصر ذخیره شده می‌شود و این اجازه می‌دهد تا به یک عنصر در یک ایندکس خاص سریع‌تر دسترسی پیدا کنید. لیست‌های پیوندی در ساختار ذخیره‌سازی خود انعطاف‌پذیرتر هستند و عناصر معمولاً در مکان‌های پیوسته ذخیره نمی‌شوند، بنابراین نیاز به ذخیره شدن با برچسب‌های اضافی دارند که به عنصر بعدی ارجاع می‌دهند. این تفاوت در طرح ذخیره‌سازی داده تعیین می‌کند که کدام ساختار داده برای یک موقعیت خاص مناسب‌تر است.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Python Array Tutorial](https://www.freecodecamp.org/news/python-array-tutorial-define-index-methods/)
 - [@article@Arrays in Python](https://www.edureka.co/blog/arrays-in-python/)
