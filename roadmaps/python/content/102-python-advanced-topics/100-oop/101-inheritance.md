@@ -1,8 +1,7 @@
-# Inheritance
+# وراثت (Inheritance)
 
-Inheritance allows us to define a class that inherits all the methods and properties from another class.
+وراثت به ما این امکان را می‌دهد که کلاسی تعریف کنیم که تمام متدها و ویژگی‌ها را از کلاس دیگری به ارث ببرد.
 
-Visit the following resources to learn more:
-
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 - [@article@Python Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
 - [@article@Inheritance in Python](https://www.javatpoint.com/inheritance-in-python)
