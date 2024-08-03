@@ -1,9 +1,6 @@
-# Django
-
-Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit
-
-Visit the following resources to learn more:
-
+#جنگو
+جنگو یک فریم ورک رایگان،متن باز و بر اساس پایتون است که الگوی ساختاری مدل-قالب-ویو ها را دنبال می کند.این فریم ورک توسط بنیاد نرم افزاری جنگو که یک بنیاد مستقل غیرانتفاعی تاسیس شده در کشور آمریکا است پشتیبانی میشود
+برای یادگیری مطالب بیشتر در این مورد،منابع زیر را ببینید:
 - [@article@Django Official Website](https://www.djangoproject.com/)
 - [@article@Official Getting Started Guide](https://www.djangoproject.com/start/)
 - [@video@Python Django Tutorial for Beginners](https://www.youtube.com/watch?v=rHux0gMZ3Eg)
