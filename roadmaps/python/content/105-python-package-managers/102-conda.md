@@ -1,9 +1,9 @@
 # Conda
 
-Conda is an open source package management system and environment management system that runs on Windows, macOS, and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer. It was created for Python programs, but it can package and distribute software for any language.
+کندا (Conda) یک سیستم مدیریت بسته و مدیریت محیط متن‌باز است که بر روی ویندوز، macOS و لینوکس اجرا می‌شود. Conda به سرعت بسته‌ها و وابستگی‌های آن‌ها را نصب، اجرا و به‌روزرسانی می‌کند. Conda به راحتی محیط‌های مختلف را بر روی رایانه محلی شما ایجاد، ذخیره، بارگذاری و بین آن‌ها جابجا می‌شود. این ابزار برای برنامه‌های پایتون ایجاد شده است، اما می‌تواند نرم‌افزارهایی برای هر زبان دیگری را بسته‌بندی و توزیع کند.
 
-Conda as a package manager helps you find and install packages. If you need a package that requires a different version of Python, you do not need to switch to a different environment manager, because conda is also an environment manager. With just a few commands, you can set up a totally separate environment to run that different version of Python, while continuing to run your usual version of Python in your normal environment.
+Conda به عنوان یک مدیر بسته به شما کمک می‌کند تا بسته‌ها را پیدا و نصب کنید. اگر به بسته‌ای نیاز دارید که به نسخه متفاوتی از پایتون نیاز دارد، نیازی به تغییر به یک مدیر محیط متفاوت نیست، زیرا conda همچنین یک مدیر محیط است. با استفاده از چند فرمان ساده، می‌توانید یک محیط کاملاً جداگانه برای اجرای نسخه متفاوت پایتون تنظیم کنید و در عین حال نسخه معمولی پایتون خود را در محیط عادی ادامه دهید.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Conda Docs](https://docs.conda.io/en/latest/)
