@@ -1,10 +1,10 @@
-# Generator Expressions
+# عبارات ژنراتور (Generator Expressions)
 
-Generator expressions are a concise way to create a generator using a single line of code in Python. They are similar to list comprehensions, but instead of creating a list, they create a generator object that produces the values on-demand, as they are needed.
+عبارات ژنراتور یک روش مختصر برای ایجاد یک ژنراتور با استفاده از یک خط کد در پایتون هستند. این عبارات شبیه به کامپری‌هشن لیست‌ها هستند، اما به جای ایجاد یک لیست، یک شیء ژنراتور ایجاد می‌کنند که مقادیر را به صورت درخواستی و در حین نیاز تولید می‌کند.
 
-Generator expressions are a useful tool for efficiently producing large sequence of values, as they allow you to create the generator without creating the entire sequence in memory at once. This tends to use less memory, especially for large sequences.
+عبارات ژنراتور یک ابزار مفید برای تولید کارآمد دنباله‌های بزرگ از مقادیر هستند، زیرا به شما این امکان را می‌دهند که ژنراتور را بدون ایجاد کل دنباله در حافظه به طور یکجا ایجاد کنید. این کار معمولاً از حافظه کمتری استفاده می‌کند، به ویژه برای دنباله‌های بزرگ.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Python Generator Expressions](https://www.pythontutorial.net/advanced-python/python-generator-expressions/)
 - [@article@List Comprehensions in Python and Generator Expressions](https://djangostars.com/blog/list-comprehensions-and-generator-expressions/)
