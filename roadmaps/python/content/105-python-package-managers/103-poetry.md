@@ -1,9 +1,9 @@
 # Poetry
 
-Poetry is a dependency management and packaging tool for Python that runs on Windows, macOS, and Linux. Poetry efficiently installs, manages, and updates packages and their dependencies. Poetry seamlessly creates, saves, loads, and switches between project environments on your local computer. It is designed specifically for Python projects, providing a streamlined workflow for managing dependencies, virtual environments, and building packages.
+ابزار (Poetry) یک ابزار مدیریت وابستگی و بسته‌بندی برای پایتون است که بر روی ویندوز، macOS و لینوکس اجرا می‌شود. ابزار Poetry به طور مؤثر بسته‌ها و وابستگی‌های آن‌ها را نصب، مدیریت و به‌روزرسانی می‌کند. ابزار Poetry به‌طور یکپارچه محیط‌های پروژه را بر روی رایانه محلی شما ایجاد، ذخیره، بارگذاری و بین آن‌ها جابجا می‌شود. این ابزار به‌طور خاص برای پروژه‌های پایتون طراحی شده و یک جریان کاری بهینه برای مدیریت وابستگی‌ها، محیط‌های مجازی و ساخت بسته‌ها فراهم می‌آورد.
 
-Poetry as a package manager helps you find and install packages. If you need a specific version of a package or a different version of Python, Poetry handles both dependency management and virtual environments effortlessly. With just a few commands, you can set up a completely isolated environment to run a different version of Python or package configuration, while maintaining your usual development environment. Poetry’s lock file ensures consistent installs across different environments, enhancing reproducibility and stability of your projects.
+ابزار Poetry به عنوان یک مدیر بسته به شما کمک می‌کند تا بسته‌ها را پیدا و نصب کنید. اگر به نسخه خاصی از یک بسته یا نسخه متفاوتی از پایتون نیاز دارید، Poetry به راحتی مدیریت وابستگی‌ها و محیط‌های مجازی را انجام می‌دهد. با استفاده از چند فرمان ساده، می‌توانید محیطی کاملاً ایزوله را برای اجرای نسخه متفاوتی از پایتون یا پیکربندی بسته تنظیم کنید، در حالی که محیط توسعه معمولی خود را حفظ می‌کنید. فایل (Poetry’s lock file) نصب‌های سازگار در محیط‌های مختلف را تضمین کرده و قابلیت بازتولید و پایداری پروژه‌های شما را افزایش می‌دهد.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Poetry Docs](https://python-poetry.org/docs/)
