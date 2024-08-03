@@ -1,8 +1,8 @@
-# Version Control Systems
+# سیستم‌های کنترل نسخه (Version Control Systems)
 
-Version control systems allow you to track changes to your codebase/files over time. They allow you to go back to some previous version of the codebase without any issues. Also, they help in collaborating with people working on the same code – if you’ve ever collaborated with other people on a project, you might already know the frustration of copying and merging the changes from someone else into your codebase; version control systems allow you to get rid of this issue.
+سیستم‌های کنترل نسخه به شما این امکان را می‌دهند که تغییرات کدها/فایل‌های خود را در طول زمان پیگیری کنید. آن‌ها به شما اجازه می‌دهند تا به نسخه‌های قبلی کد خود بدون مشکل برگردید. همچنین، این سیستم‌ها در همکاری با افرادی که بر روی همان کد کار می‌کنند، کمک می‌کنند – اگر تاکنون با دیگران در یک پروژه همکاری کرده‌اید، ممکن است از مشکلات کپی کردن و ادغام تغییرات دیگران به کد خود آگاه باشید؛ سیستم‌های کنترل نسخه به شما این امکان را می‌دهند که از این مشکل رهایی یابید.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@video@Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
 - [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
