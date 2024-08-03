@@ -1,8 +1,9 @@
-# Package Managers
+# مدیران بسته (Package Managers)
 
-Package managers allow you to manage the dependencies (external code written by you or someone else) that your project needs to work correctly.
+پکیج منیجر به شما این امکان را می‌دهند که وابستگی‌ها (کدهای خارجی نوشته شده توسط شما یا دیگران) که پروژه شما برای عملکرد صحیح به آن‌ها نیاز دارد، مدیریت کنید.
 
-`PyPI` and `Pip` are the most common contenders but here are some other options available as well:
+رایج ترین گزینه ها **PyPI** و **Pip** هستند، اما گزینه‌های دیگری نیز در دسترس هستند:
+استقرار برنامه‌های مبتنی بر ایزولاسیون به شما این امکان را می‌دهد که بدون تأثیر بر سیستم یا کتابخانه‌های PIP کاربر، اپلیکیشن‌ها را راه‌اندازی کنید. این قابلیت به شما اجازه می‌دهد تا ابزارهای خط فرمان پایتون را به صورت جداگانه امتحان کنید بدون اینکه بر وابستگی‌های دیگر تأثیر بگذارید.
+- [@opensource@**PIPX**](https://github.com/pypa/pipx)
 
-- [@opensource@**PIPX**](https://github.com/pypa/pipx) : Isolation-based app deployment, so you don't have to affect the system or user PIP libraries. It enables you to try individual python CLI tools without affecting other dependencies.
 - [@feed@Explore top posts about Python](https://app.daily.dev/tags/python?ref=roadmapsh)
