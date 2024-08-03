@@ -1,8 +1,8 @@
-# BitBucket
+# بیت‌باکت (BitBucket)
 
-[BitBucket](https://bitbucket.com) is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+[بیت‌باکت](https://bitbucket.com) ارائه‌دهنده میزبانی اینترنتی برای توسعه نرم‌افزار و کنترل نسخه با استفاده از Git است. این پلتفرم امکانات کنترل نسخه توزیع‌شده و مدیریت کد منبع Git را ارائه می‌دهد، همراه با ویژگی‌های خاص خود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@BitBucket Website](https://bitbucket.com/)
 - [@official@How to use BitBucket?](https://bitbucket.org/product/guides)
