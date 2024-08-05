@@ -1,6 +1,8 @@
 # FastAPI
 
-FastAPI is a Web framework for developing RESTful APIs in Python. FastAPI is based on Pydantic and type hints to validate, serialize, and deserialize data and automatically auto-generate OpenAPI documents.
+فریمورک FastAPI یک فریم‌ورک وب برای توسعه APIهای RESTful در پایتون است. FastAPI بر اساس Pydantic و نوع‌نمایی (type hints) ساخته شده است تا داده‌ها را اعتبارسنجی، سریالیزه و دسیریالیزه کند و به طور خودکار مستندات OpenAPI را تولید کند.
+
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Official Documentation](https://fastapi.tiangolo.com/)
 - [@video@Create an API with Fast-API (Full 19 Hour Course)](https://www.youtube.com/watch?v=0sOvCWFmrtA)
