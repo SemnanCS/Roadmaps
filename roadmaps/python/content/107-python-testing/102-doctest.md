@@ -1,8 +1,8 @@
 # Doctest
 
-Python’s standard library comes equipped with a test framework module called doctest. The doctest module programmatically searches Python code for pieces of text within comments that look like interactive Python sessions. Then, the module executes those sessions to confirm that the code referenced by a doctest runs as expected.
+کتابخانه استاندارد پایتون با ماژولی به نام doctest مجهز شده است. ماژول doctest به‌طور برنامه‌نویسی کد پایتون را جستجو می‌کند تا بخش‌های متنی در نظرات که شبیه جلسات تعاملی پایتون هستند را پیدا کند. سپس، این ماژول آن جلسات را اجرا می‌کند تا تأیید کند که کدی که توسط doctest اشاره شده است، به‌طور مورد انتظار عمل می‌کند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Doctest module reference](https://docs.python.org/3/library/doctest.html)
 - [@article@How To Write Doctests in Python](https://www.digitalocean.com/community/tutorials/how-to-write-doctests-in-python)
