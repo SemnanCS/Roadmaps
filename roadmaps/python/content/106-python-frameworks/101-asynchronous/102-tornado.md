@@ -1,8 +1,8 @@
-# Tornado
+# تورنادو (Tornado)
 
-Tornado is a scalable, non-blocking web server and web application framework written in Python. It was developed for use by FriendFeed; the company was acquired by Facebook in 2009 and Tornado was open-sourced soon after.
+تورنادو (Tornado) یک وب سرور و فریم‌ورک برنامه‌های وب مقیاس‌پذیر و غیر مسدودکننده است که با پایتون نوشته شده است. این فریم‌ورک برای استفاده توسط FriendFeed توسعه یافت؛ این شرکت در سال 2009 توسط فیس‌بوک خریداری شد و تورنادو به‌زودی پس از آن متن‌باز شد.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Tornado — Official Website](https://www.tornadoweb.org/)
 - [@article@A Step-by-Step Tutorial on Python Tornado](https://phrase.com/blog/posts/tornado-web-framework-i18n/)
