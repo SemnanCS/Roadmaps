@@ -1,8 +1,8 @@
-# Testing
+# تست کردن (Testing)
 
-A key to building software that meets requirements without defects is testing. Software testing helps developers know they are building the right software. When tests are run as part of the development process (often with continuous integration tools), they build confidence and prevent regressions in the code.
+رمز ساخت نرم‌افزارهایی که مطابق با نیازها و بدون نقص هستند، تست است. تست نرم‌افزار به توسعه‌دهندگان کمک می‌کند تا مطمئن شوند که نرم‌افزار درست را می‌سازند. هنگامی که تست‌ها به عنوان بخشی از فرآیند توسعه اجرا می‌شوند (اغلب با ابزارهای ادغام مداوم)، اعتماد به نفس را افزایش می‌دهند و از بروز مشکلات مجدد در کد جلوگیری می‌کنند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
 - [@article@Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
