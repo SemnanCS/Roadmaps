@@ -1,9 +1,10 @@
-# Python Frameworks
+# فریم‌ورک‌های پایتون (Python Frameworks)
 
-Frameworks automate the common implementation of common solutions which gives the flexibility to the users to focus on the application logic instead of the basic routine processes.
+فریم‌ورک‌ها فرآیندهای رایج پیاده‌سازی راه‌حل‌های معمول را خودکار می‌کنند و به کاربران این امکان را می‌دهند که بر روی منطق برنامه تمرکز کنند، به جای پرداختن به فرآیندهای روتین پایه.
 
-Frameworks make the life of web developers easier by giving them a structure for app development. They provide common patterns in a web application that are fast, reliable and easily maintainable.
-Visit the following resources to learn more:
+فریم‌ورک‌ها زندگی توسعه‌دهندگان وب را با ارائه ساختاری برای توسعه اپلیکیشن آسان‌تر می‌کنند. آن‌ها الگوهای مشترکی در برنامه‌های وب فراهم می‌آورند که سریع، قابل اعتماد و به راحتی قابل نگهداری هستند.
+
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Pyscript: A Browser-Based Python Framework for the 99%](https://thenewstack.io/pyscript-a-browser-based-python-framework/)
 - [@feed@Explore top posts about Python](https://app.daily.dev/tags/python?ref=roadmapsh)
