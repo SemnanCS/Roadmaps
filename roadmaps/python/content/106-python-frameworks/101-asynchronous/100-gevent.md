@@ -1,9 +1,8 @@
 # gevent
 
-gevent is a Python library that provides a high-level interface to the event loop.
-It is based on non-blocking IO (libevent/libev) and lightweight greenlets. Non-blocking IO means requests waiting for network IO won't block other requests; greenlets mean we can continue to write code in synchronous style.
+کتابخانه gevent یک کتابخانه پایتون است که رابط سطح بالایی به event loop ارائه می‌دهد. این کتابخانه بر پایه IO غیر مسدودکننده (libevent/libev) و lightweight greenlets ساخته شده است. IO غیر مسدودکننده به این معنی است که درخواست‌های منتظر برای IO شبکه مانع از اجرای سایر درخواست‌ها نمی‌شوند؛ گرین‌لت‌ها نیز به این معناست که می‌توانیم به نوشتن کد به سبک همزمان ادامه دهیم.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@gevent — Official Website](http://www.gevent.org/)
 - [@opensource@GitHub Repository](https://github.com/gevent/gevent)
