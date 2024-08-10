@@ -1,3 +1,5 @@
-# Exploratory Data Analysis
+# تحلیل داده‌های اکتشافی
 
-Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. EDA is used to understand what the data can tell us beyond the formal modeling or hypothesis testing task. It is a crucial step in the data analysis process.
+تجزیه و تحلیل داده های اکتشافی (EDA) رویکردی برای تجزیه و تحلیل مجموعه داده ها برای خلاصه کردن ویژگی های اصلی آنها، اغلب با روش های بصری است. EDA برای درک آنچه که داده ها می توانند فراتر از مدل سازی یا آزمایش فرضیه به ما بگویند استفاده می شود. این یک مرحله مهم در فرآیند تجزیه و تحلیل داده ها است.
+
+
