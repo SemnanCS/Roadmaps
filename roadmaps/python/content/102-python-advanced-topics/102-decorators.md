@@ -1,8 +1,8 @@
-# Decorators
+# دکوریتورها (Decorators)
 
-decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. Decorators are usually called before the definition of a function you want to decorate.
+دکوریتور یک الگوی طراحی در پایتون است که به کاربر اجازه می‌دهد تا بدون تغییر ساختار یک شیء موجود، قابلیت‌های جدیدی به آن اضافه کند. دکوریتورها معمولاً قبل از تعریف تابعی که می‌خواهید دکوریت کنید، فراخوانی می‌شوند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Python Decorators](https://www.datacamp.com/tutorial/decorators-python)
 - [@video@Decorators in Python](https://www.youtube.com/watch?v=FXUUSfJO_J4)

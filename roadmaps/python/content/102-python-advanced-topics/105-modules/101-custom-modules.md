@@ -1,8 +1,8 @@
-# Custom Modules
+# ماژول‌های سفارشی (Custom Modules)
 
-Modules refer to a file containing Python statements and definitions. A file containing Python code, for example: `example.py`, is called a module, and its module name would be example. We use modules to break down large programs into small manageable and organized files. Furthermore, modules provide reusability of code.
+ماژول‌ها به فایلی حاوی دستورات و تعاریف پایتون اشاره دارند. یک فایل حاوی کد پایتون، به عنوان مثال: `example.py`، یک ماژول نامیده می‌شود و نام ماژول آن example خواهد بود. ما از ماژول‌ها برای تقسیم برنامه‌های بزرگ به فایل‌های کوچک، قابل مدیریت و سازمان‌یافته استفاده می‌کنیم. علاوه بر این، ماژول‌ها قابلیت استفاده مجدد از کد را فراهم می‌کنند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Python Modules](https://docs.python.org/3/tutorial/modules.html)
 - [@article@Modules in Python](https://www.programiz.com/python-programming/modules)

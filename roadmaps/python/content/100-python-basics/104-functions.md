@@ -1,10 +1,10 @@
-# Functions
+# تابع ها
 
-In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable.
+در برنامه نویسی، یک تابع یک بلوک کد قابل استفاده مجدد است که هنگام فراخوانی، عملکرد خاصی را اجرا می کند. توابع بخش جدایی ناپذیر هر زبان برنامه نویسی هستند زیرا به ماژولارتر شدن کد شما کمک می کنند.
 
-In Python, you define a function with the `def` keyword, then write the function identifier (name) followed by parentheses and a colon.
+در پایتون، یک تابع را با کلمه کلیدی `def` تعریف می‌کنید، سپس شناسه تابع (name) را به همراه پرانتز و یک دونقطه می‌نویسید.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Python Functions – How to Define and Call a Function](https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/)
 - [@article@Python Functions - W3Schools](https://www.w3schools.com/python/python_functions.asp)

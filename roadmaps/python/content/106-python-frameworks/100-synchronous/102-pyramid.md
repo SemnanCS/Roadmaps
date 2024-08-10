@@ -1,8 +1,8 @@
-# Pyramid
+# پیرامید (Pyramid)
 
-Pyramid is a general, open source, web application development framework built in python. It allows python developer to create web applications with ease. Pyramid is backed by the enterprise knowledge Management System KARL (a George Soros project).
+پیرامید یک فریم‌ورک توسعه برنامه‌های وب عمومی، متن‌باز و ساخته شده با پایتون است. این فریم‌ورک به توسعه‌دهندگان پایتون اجازه می‌دهد تا به راحتی برنامه‌های وب ایجاد کنند. پیرامید توسط سیستم مدیریت دانش سازمانی KARL (پروژه‌ای از جورج سوروس) پشتیبانی می‌شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Pyramid - Official Website](https://trypyramid.com/)
 - [@article@Pyramid Documentation](https://trypyramid.com/documentation.html)

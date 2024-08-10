@@ -1,14 +1,14 @@
-# Lists, Tuples, Sets, and Dictionaries
+# لیست ها، تاپل ها، مجموعه ها و دیکشنری ها
 
-**Lists:** are just like dynamic sized arrays, declared in other languages (vector in C++ and ArrayList in Java). Lists need not be homogeneous always which makes it the most powerful tool in Python.
+**لیست ها Lists:** درست مانند آرایه های با اندازه پویا هستند که در زبان های دیگر (vector در C++ و ArrayList در java) اعلام شده اند. لیست ها نباید همیشه از یک نوع (integer, string, float, etc) باشند که آن را قوی ترین ابزار پایتون می کند.
 
-**Tuple:** A Tuple is a collection of Python objects separated by commas. In some ways, a tuple is similar to a list in terms of indexing, nested objects, and repetition but a tuple is immutable, unlike lists that are mutable.
+**تاپل ها Tuple:** یک تاپل مجموعه‌ای از اشیاء پایتون است که با کاما از هم جدا شده‌اند. به برخی جهات، یک تاپل از نظر ایندکس‌بندی، اشیاء تودرتو، و تکرار شبیه به یک لیست است، اما تاپل تغییرناپذیر است، برخلاف لیست‌ها که تغییرپذیر هستند.
 
-**Set:** A Set is an unordered collection data type that is iterable, mutable, and has no duplicate elements. Python’s set class represents the mathematical notion of a set.
+**مجموعه Set:** مجموعه یک نوع داده‌ی بدون ترتیب است که قابلیت پیمایش، تغییرپذیری و نداشتن عناصر تکراری را دارد. کلاس مجموعه در پایتون نمایانگر مفهوم ریاضی مجموعه است.
 
-**Dictionary:** In python, Dictionary is an ordered (since Py 3.7) [unordered (Py 3.6 & prior)] collection of data values, used to store data values like a map, which, unlike other Data Types that hold only a single value as an element, Dictionary holds key:value pair. Key-value is provided in the dictionary to make it more optimized.
+**دیکشتری Dictionary:** در پایتون، دیکشنری مجموعه‌ای مرتب (از Py 3.7) [نامرتب (Py 3.6 و قبل)] از مقادیر داده است که برای ذخیره مقادیر داده‌ها مانند نقشه استفاده می‌شود، که بر خلاف انواع داده‌های دیگر که فقط یک مقدار را به عنوان عنصر نگه می‌دارند. ، دیکشنری دارای جفت key:value است. Key-value در Dictionary برای بهینه سازی بیشتر آن ارائه شده است.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@video@Difference Between List, Tuple, Set and Dictionary in Python](https://www.youtube.com/watch?v=n0krwG38SHI)
 - [@article@Tuples vs. Lists vs. Sets in Python](https://jerrynsh.com/tuples-vs-lists-vs-sets-in-python/)

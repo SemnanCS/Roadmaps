@@ -1,8 +1,7 @@
-# Asynchronous
+# برنامه‌نویسی ناهمزمان (Asynchronous)
 
-Asynchronous programming is a type of parallel programming in which a unit of work is allowed to run separately from the primary application thread. When the work is complete, it notifies the main thread about completion or failure of the worker thread.
-This style is mostly concerned with the asynchronous execution of tasks. Python has several asynchronous frameworks that are used to implement asynchronous programming.
+برنامه‌نویسی ناهمزمان نوعی از برنامه‌نویسی موازی است که در آن یک واحد کاری به‌طور جداگانه از رشته اصلی برنامه اجرا می‌شود. زمانی که کار کامل شد، به رشته اصلی درباره تکمیل یا شکست رشته کاری اطلاع می‌دهد. این سبک بیشتر به اجرای ناهمزمان وظایف مربوط می‌شود. پایتون چندین فریم‌ورک ناهمزمان دارد که برای پیاده‌سازی برنامه‌نویسی ناهمزمان استفاده می‌شوند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Top 9 Asynchronous Web Frameworks for Python](https://geekflare.com/python-asynchronous-web-frameworks/)

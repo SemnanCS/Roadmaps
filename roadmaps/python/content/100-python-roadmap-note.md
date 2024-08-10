@@ -1,3 +1,3 @@
-# Note
+# توجه
 
-This roadmap specifically covers **Python and the ecosystem** around it. You will notice that it is missing things like version control, databases, software design, architecture and other things that are not directly related to Python; this is intentional. Have a look at the [Backend Roadmap](/backend) for a more comprehensive overview of the backend ecosystem.
+این نقشه راه به طور خاص به **پایتون و اکوسیستم مرتبط با آن** می‌پردازد. شما متوجه خواهید شد که مواردی مانند کنترل نسخه، پایگاه‌داده‌ها، طراحی نرم‌افزار، معماری و سایر موضوعاتی که مستقیماً به پایتون مرتبط نیستند در اینجا وجود ندارد؛ این به عمد انجام شده است. برای یک مرور جامع‌تر از اکوسیستم بک‌اند، به [نقشه راه Backend](/backend) مراجعه کنید.

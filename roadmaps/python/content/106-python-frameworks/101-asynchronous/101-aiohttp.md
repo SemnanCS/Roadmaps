@@ -1,8 +1,8 @@
 # AIOHTTP
 
-aiohttp is a Python 3.5+ library that provides a simple and powerful asynchronous HTTP client and server implementation.
+کتابخانه AIOHTTP یک کتابخانه پایتون (نسخه 3.5 به بالا) است که پیاده‌سازی ساده و قدرتمندی از کلاینت و سرور HTTP ناهمزمان ارائه می‌دهد.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Official Docs](https://docs.aiohttp.org/en/stable/)
 - [@video@Python Asyncio, Requests, Aiohttp | Make faster API Calls](https://www.youtube.com/watch?v=nFn4_nA_yk8)

@@ -1,8 +1,8 @@
-# Hash Tables
+# جداول هش (Hash Tables)
 
-Hash Table, Map, HashMap, Dictionary or Associative are all the names of the same data structure. It is a data structure that implements a set abstract data type, a structure that can map keys to values.
+جدول هش، نقشه، هش‌مپ، دیکشنری یا انجمنی همه نام‌های یک ساختار داده یکسان هستند. این یک ساختار داده است که نوع داده انتزاعی مجموعه را پیاده‌سازی می‌کند، ساختاری که می‌تواند کلیدها را به مقادیر نگاشت کند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@video@Hash Table Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=jalSiaIi8j4)
 - [@article@Hash Tables and Hashmaps in Python](https://www.edureka.co/blog/hash-tables-and-hashmaps-in-python/)

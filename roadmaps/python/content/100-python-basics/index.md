@@ -1,8 +1,8 @@
-# Python
+# پایتون
 
-Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected.
+پایتون یک زبان برنامه‌نویسی سطح بالا، مفسرری و چندمنظوره است. فلسفه طراحی آن بر خوانایی کد با استفاده از تورفتگی‌های مهم تأکید دارد. پایتون داینامیک تایپ است و از بازیافت حافظه بهره می‌برد.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@Official Website: Python](https://www.python.org/)
 - [@article@Tutorial Series: How to Code in Python](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)

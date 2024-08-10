@@ -1,9 +1,8 @@
-# Flask
+# فلسک (Flask)
 
-Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. Instead, it provides flexibility by requiring you to choose and integrate the best libraries for your project's needs.
+فلسک یک میکرو فریم‌ورک وب است که با پایتون نوشته شده است. این فریم‌ورک به عنوان میکروفریم‌ورک طبقه‌بندی می‌شود زیرا نیاز به ابزارها یا کتابخانه‌های خاصی ندارد. فلسک دارای لایه انتزاعی دیتابیس، اعتبارسنجی فرم یا هیچ یک از اجزای دیگر نیست که کتابخانه‌های شخص ثالث موجود معمولاً فراهم می‌کنند. در عوض، با انعطاف‌پذیری خود، شما را ملزم می‌کند که بهترین کتابخانه‌ها را برای نیازهای پروژه خود انتخاب و یکپارچه کنید.
 
-Visit the following resources to learn more:
-
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 - [@article@Flask - Official Website](https://flask.palletsprojects.com/)
 - [@article@Flask - Official Tutorial](https://flask.palletsprojects.com/en/3.0.x/tutorial/)
 - [@feed@Explore top posts about Flask](https://app.daily.dev/tags/flask?ref=roadmapsh)

@@ -1,8 +1,8 @@
-# Regular Expressions
+# عبارات منظم (Regular Expressions)
 
-A regular expression is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation.
+عبارت منظم (Regular Expression) دنباله‌ای از کاراکترها است که یک الگوی جستجو در متن را مشخص می‌کند. معمولاً این الگوها توسط الگوریتم‌های جستجوی رشته برای عملیات "یافتن" یا "یافتن و جایگزینی" در رشته‌ها، یا برای اعتبارسنجی ورودی استفاده می‌شوند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Regular Expressions in Python](https://docs.python.org/3/library/re.html)
 - [@article@Python Regular Expressions](https://developers.google.com/edu/python/regular-expressions)

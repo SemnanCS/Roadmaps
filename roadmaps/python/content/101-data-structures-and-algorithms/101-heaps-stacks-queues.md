@@ -1,12 +1,12 @@
-# Heaps Stacks and Queues
+# هیپ‌ها، پشته‌ها و صف‌ها
 
-**Stacks:** Operations are performed LIFO (last in, first out), which means that the last element added will be the first one removed. A stack can be implemented using an array or a linked list. If the stack runs out of memory, it’s called a stack overflow.
+**پشته‌ها (Stacks):** عملیات به صورت LIFO (**L**ast **I**n, **F**irst **O**ut) انجام می‌شوند، به این معنی که آخرین عنصری که اضافه شده، اولین عنصری خواهد بود که حذف می‌شود. یک پشته می‌تواند با استفاده از یک آرایه یا یک لیست پیوندی پیاده‌سازی شود. اگر پشته از حافظه خارج شود، به آن سرریز پشته (stack overflow) گفته می‌شود.
 
-**Queue:** Operations are performed FIFO (first in, first out), which means that the first element added will be the first one removed. A queue can be implemented using an array.
+**صف‌ها (Queue):** عملیات به صورت FIFO (**F**irst **I**n, **F**irst **O**ut) انجام می‌شوند، به این معنی که اولین عنصری که اضافه شده، اولین عنصری خواهد بود که حذف می‌شود. یک صف می‌تواند با استفاده از یک آرایه پیاده‌سازی شود.
 
-**Heap:** A tree-based data structure in which the value of a parent node is ordered in a certain way with respect to the value of its child node(s). A heap can be either a min heap (the value of a parent node is less than or equal to the value of its children) or a max heap (the value of a parent node is greater than or equal to the value of its children).
+**هیپ‌ها (Heap):** یک ساختار داده مبتنی بر درخت که در آن مقدار گره والد به نوعی با مقدار گره(های) فرزند خود مرتب شده است. هیپ می‌تواند یک هیپ کمینه (min heap) باشد (مقدار گره والد کمتر از یا برابر با مقدار فرزندانش است) یا یک هیپ بیشینه (max heap) باشد (مقدار گره والد بیشتر از یا برابر با مقدار فرزندانش است).
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Heaps, Stacks, Queues](https://stephanosterburg.gitbook.io/scrapbook/coding/coding-interview/data-structures/heaps-stacks-queues)
 - [@video@Stack Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=I5lq6sCuABE)

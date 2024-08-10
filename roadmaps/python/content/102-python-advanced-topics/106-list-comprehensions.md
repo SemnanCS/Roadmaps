@@ -1,8 +1,8 @@
-# List Comprehensions
+# کامپریهشن لیست‌ها (List Comprehensions)
 
-List comprehensions are a concise way to create a list using a single line of code in Python. They are a powerful tool for creating and manipulating lists, and they can be used to simplify and shorten code.
+کامپریهشن لیست‌ها یک روش مختصر برای ایجاد یک لیست با استفاده از یک خط کد در پایتون هستند. آن‌ها یک ابزار قدرتمند برای ایجاد و دستکاری لیست‌ها هستند و می‌توانند برای ساده‌تر و کوتاه‌تر کردن کد استفاده شوند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Python - List Comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
 - [@article@What Exactly are List Comprehensions in Python? - CodeGuage](https://www.codeguage.com/courses/python/lists-list-comprehensions)

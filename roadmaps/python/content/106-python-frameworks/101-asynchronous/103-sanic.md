@@ -1,7 +1,7 @@
-# Sanic
+# سانیک (Sanic)
 
-Sanic is a Python 3.7+ web server and web framework that&#39;s written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy.
+سانیک یک وب سرور و فریم‌ورک وب برای پایتون نسخه 3.7 به بالا است که با هدف سرعت بالا نوشته شده است. این فریم‌ورک اجازه استفاده از سینتکس async/await که در پایتون 3.5 اضافه شده است را می‌دهد، که این امر باعث غیر مسدودکننده و سریع بودن کد شما می‌شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@Sanic Official Website](https://sanic.dev/en/)

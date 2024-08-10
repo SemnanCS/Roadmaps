@@ -1,8 +1,8 @@
 # PyPI
 
-PyPI, typically pronounced pie-pee-eye, is a repository containing several hundred thousand packages. These range from trivial Hello, World implementations to advanced deep learning libraries.
+مخزن PyPI، که معمولاً "پای‌پی‌آی" تلفظ می‌شود، یک مخزن حاوی چند صد هزار بسته است. این بسته‌ها از پیاده‌سازی‌های ساده مانند "Hello, World" تا کتابخانه‌های پیشرفته یادگیری عمیق را شامل می‌شوند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@PyPI Official Website](https://pypi.org/)
 - [@video@Getting Started with Pip and PyPI in Python](https://www.youtube.com/watch?v=bPSfNKvhooA)

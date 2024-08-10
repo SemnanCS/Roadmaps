@@ -1,9 +1,8 @@
 # pytest
 
-pytest is a mature full-featured Python testing tool that helps you write better programs.
+ابزار pytest یک ابزار تست پایتون بالغ و دارای ویژگی‌های کامل است که به شما کمک می‌کند برنامه‌های بهتری بنویسید.
 
-Visit the following resources to learn more:
-
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 - [@article@Official Docs](https://docs.pytest.org/)
 - [@article@Pytest Tutorial](https://www.tutorialspoint.com/pytest/index.htm)
 - [@article@Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)

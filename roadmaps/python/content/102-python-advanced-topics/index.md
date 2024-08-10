@@ -1,3 +1,3 @@
-# Advanced Topics
+# موضوعات پیشرفته (Advanced Topics)
 
-Now that you have covered the basics of Python, let's move on to some advanced topics. In this section, you will be learning about things like OOP, Lambdas, Decorators, Iterators, Modules, and more.
+حال که اصول پایه‌ای پایتون را پوشش داده‌اید، به مباحث پیشرفته‌تر می‌پردازیم. در این بخش، شما با مسائلی مانند برنامه‌نویسی شیءگرا (OOP)، لامبداها، دکوریتورها، اینترفیس‌ها، ماژول‌ها و موارد دیگر آشنا خواهید شد.

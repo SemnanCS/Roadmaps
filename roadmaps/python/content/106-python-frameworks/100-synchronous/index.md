@@ -1,7 +1,7 @@
-# Synchronous Frameworks
+# فریم‌ورک‌های همزمان (Synchronous Frameworks)
 
-Synchronous frameworks in python handle the flow of data in a synchronous manner. On a s̲y̲n̲c̲h̲r̲o̲n̲o̲u̲s̲ request, you make the request and stop executing your program until you get a response from the HTTP server (or an error if the server can't be reached, or a timeout if the sever is taking way, way too long to reply) The interpreter is blocked until the request is completed (until you got a definitive answer of what happened with the request: did it go well? was there an error? a timeout?... ).
+فریم‌ورک‌های همزمان (Synchronous Frameworks) در پایتون جریان داده را به صورت همزمان مدیریت می‌کنند. در یک درخواست همزمان، شما درخواست را ارسال می‌کنید و اجرای برنامه خود را متوقف می‌کنید تا زمانی که از سرور HTTP پاسخی دریافت کنید (یا در صورت عدم دسترسی به سرور، با خطا مواجه شوید، یا در صورت پاسخ ندادن طولانی سرور، با تایم‌اوت مواجه شوید). مفسر تا زمانی که درخواست تکمیل نشود (تا زمانی که پاسخ نهایی درباره وضعیت درخواست دریافت نشود: آیا موفقیت‌آمیز بود؟ آیا خطایی رخ داد؟ تایم‌اوت شد؟...) مسدود می‌ماند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Sync vs. Async Python: What is the Difference?](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)

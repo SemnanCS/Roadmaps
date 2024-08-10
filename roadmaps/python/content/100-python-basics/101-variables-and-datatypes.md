@@ -1,9 +1,8 @@
-## Variables
+## متغیرها
 
-Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program.
+متغیرها برای ذخیره اطلاعات مورد اشاره و دستکاری در یک برنامه کامپیوتری استفاده می شوند. آنها همچنین راهی برای برچسب گذاری داده ها با یک نام توصیفی ارائه می دهند، بنابراین برنامه های ما می توانند توسط خواننده و خودمان با وضوح بیشتری درک شوند. مفید است که متغیرها را به عنوان محفظه هایی در نظر بگیرید که اطلاعات را در خود نگه می دارند. تنها هدف آنها برچسب گذاری و ذخیره داده ها در حافظه است. سپس این داده ها می توانند در سراسر برنامه شما استفاده شوند.
 
-Visit the following resources to learn more:
-
+برای کسب اطلاعات بیشتر به منابع زیر مراجعه کنید:
 - [@article@Variables in Python](https://realpython.com/python-variables)
 - [@article@W3Schools — Python Variables](https://www.w3schools.com/python/python_variables.asp)
 - [@article@Python Data Types](https://www.w3schools.com/python/python_datatypes.asp)
