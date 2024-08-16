@@ -1,8 +1,8 @@
 # DNS
 
-The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+سیستم نام دامنه (DNS) دفترچه تلفن اینترنت است. کاربران از طریق نام‌های دامنه، مانند nytimes.com یا espn.com، به اطلاعات آنلاین دسترسی پیدا می‌کنند. مرورگرهای وب از طریق آدرس‌های پروتکل اینترنت (IP) با هم تعامل دارند. DNS نام‌های دامنه را به آدرس‌های IP تبدیل می‌کند تا مرورگرها بتوانند منابع اینترنتی را بارگذاری کنند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 - [@article@How DNS works (comic)](https://howdns.works/)

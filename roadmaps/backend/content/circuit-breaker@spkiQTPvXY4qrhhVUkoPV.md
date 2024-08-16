@@ -1,12 +1,12 @@
 # Circuit Breaker
 
-The circuit breaker design pattern is a way to protect a system from failures or excessive load by temporarily stopping certain operations if the system is deemed to be in a failed or overloaded state. It is commonly used in cloud computing environments to prevent cascading failures and to improve the resilience and availability of a system.
+الگوی طراحی Circuit Breaker راهی برای محافظت از سیستم در برابر شکست‌ها یا بار زیاد است با توقف موقت برخی عملیات‌ها در صورتی که سیستم به حالت شکست یا بار اضافی در نظر گرفته شود. این الگو به طور معمول در محیط‌های رایانش ابری برای جلوگیری از شکست‌های زنجیره‌ای و بهبود تاب‌آوری و در دسترس بودن سیستم استفاده می‌شود.
 
-A circuit breaker consists of three states: closed, open, and half-open. In the closed state, the circuit breaker allows operations to proceed as normal. If the system encounters a failure or becomes overloaded, the circuit breaker moves to the open state, and all subsequent operations are immediately stopped. After a specified period of time, the circuit breaker moves to the half-open state, and a small number of operations are allowed to proceed. If these operations are successful, the circuit breaker moves back to the closed state; if they fail, the circuit breaker moves back to the open state.
+یک Circuit Breaker شامل سه وضعیت است: بسته (closed)، باز (open)، و نیمه‌باز (half-open). در وضعیت بسته، Circuit Breaker اجازه می‌دهد عملیات‌ها به طور عادی ادامه یابد. اگر سیستم با شکست مواجه شود یا بار زیادی را تجربه کند، Circuit Breaker به وضعیت باز منتقل می‌شود و تمامی عملیات‌های بعدی بلافاصله متوقف می‌شود. پس از گذشت یک دوره زمانی مشخص، Circuit Breaker به وضعیت نیمه‌باز منتقل می‌شود و تعداد کمی از عملیات‌ها اجازه ادامه پیدا می‌کنند. اگر این عملیات‌ها موفقیت‌آمیز باشند، Circuit Breaker به وضعیت بسته بازمی‌گردد؛ در غیر این صورت، Circuit Breaker دوباره به وضعیت باز منتقل می‌شود.
 
-The circuit breaker design pattern is useful for protecting a system from failures or excessive load by providing a way to temporarily stop certain operations and allow the system to recover. It is often used in conjunction with other design patterns, such as retries and fallbacks, to provide a more robust and resilient cloud environment.
+الگوی طراحی Circuit Breaker برای محافظت از سیستم در برابر شکست‌ها یا بار زیاد مفید است و راهی برای توقف موقت برخی عملیات‌ها و اجازه دادن به سیستم برای بهبودی فراهم می‌آورد. این الگو غالباً به همراه دیگر الگوهای طراحی، مانند تلاش مجدد و جایگزین‌ها، برای ارائه محیط ابری مقاوم‌تر و پایدارتر استفاده می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Circuit Breaker - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/rel_mitigate_interaction_failure_graceful_degradation.html)
 - [@article@Circuit Breaker - Complete Guide](https://mateus4k.github.io/posts/circuit-breakers/)

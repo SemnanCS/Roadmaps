@@ -1,10 +1,10 @@
-# Timeseries databases
+# پایگاه‌های داده سری زمانی
 
 ## InfluxDB
 
-InfluxDB was built from the ground up to be a purpose-built time series database; i.e., it was not repurposed to be time series. Time was built-in from the beginning. InfluxDB is part of a comprehensive platform that supports the collection, storage, monitoring, visualization and alerting of time series data. It’s much more than just a time series database.
+InfluxDB از ابتدا برای تبدیل شدن به یک پایگاه داده سری زمانی به طور خاص طراحی شده است؛ یعنی، این پایگاه داده برای سری‌های زمانی بازطراحی نشده است. زمان از ابتدا در آن گنجانده شده است. InfluxDB بخشی از یک پلتفرم جامع است که از جمع‌آوری، ذخیره‌سازی، نظارت، تجسم و هشدار داده‌های سری زمانی پشتیبانی می‌کند. این سیستم بسیار بیشتر از یک پایگاه داده سری زمانی است.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@InfluxDB Website](https://www.influxdata.com/)
 - [@article@Time series database](https://www.influxdata.com/time-series-database/)

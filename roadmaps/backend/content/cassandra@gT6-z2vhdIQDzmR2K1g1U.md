@@ -1,10 +1,10 @@
 # Column Databases
 
-A **<u>wide-column database</u>** (sometimes referred to as a column database) is similar to a relational database. It store data in tables, rows and columns. However in opposite to relational databases here each row can have its own format of the columns. Column databases can be seen as a two-dimensional key-value database. One of such database system is **Apache Cassandra**.
+یک **<u>پایگاه داده ستونی وسیع</u>** (که گاهی اوقات به آن پایگاه داده ستونی نیز گفته می‌شود) مشابه یک پایگاه داده رابطه‌ای است. این نوع پایگاه داده داده‌ها را در جداول، ردیف‌ها و ستون‌ها ذخیره می‌کند. با این حال، بر خلاف پایگاه‌های داده رابطه‌ای، در اینجا هر ردیف می‌تواند فرمت خاص خود را برای ستون‌ها داشته باشد. پایگاه‌های داده ستونی می‌توانند به عنوان یک پایگاه داده کلید-مقدار دو بعدی دیده شوند. یکی از این سیستم‌های پایگاه داده **Apache Cassandra** است.
 
-**Warning:** <a href="https://en.wikipedia.org/wiki/Wide-column_store#Wide-column_stores_versus_columnar_databases">note that a "columnar database" and a "column database" are two different terms!</a>
+**هشدار:** <a href="https://en.wikipedia.org/wiki/Wide-column_store#Wide-column_stores_versus_columnar_databases">توجه داشته باشید که "پایگاه داده ستونی" و "پایگاه داده ستونی وسیع" دو اصطلاح متفاوت هستند!</a>
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Apache Cassandra](https://cassandra.apache.org/_/index.html)
 - [@video@Apache Cassandra - Course for Beginners](https://www.youtube.com/watch?v=J-cSy5MeMOA)

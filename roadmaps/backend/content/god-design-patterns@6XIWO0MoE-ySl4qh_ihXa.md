@@ -1,12 +1,12 @@
 # Design Patterns
 
-Design patterns are typical solutions to commonly occurring problems in software design. They can be broken into three categories:
+الگوهای طراحی (Design Patterns) راه‌حل‌های معمول برای مشکلاتی هستند که در طراحی نرم‌افزار به طور مکرر بروز می‌کنند. این الگوها به سه دسته تقسیم می‌شوند:
 
-- Creational Patterns for the creation of objects
-- Structural Patterns to provide relationship between objects
-- Behavioral Patterns to help define how objects interact
+- **Creational Patterns** برای ایجاد اشیاء
+- **Structural Patterns** برای ارائه رابطه بین اشیاء
+- **Behavioral Patterns** برای کمک به تعریف نحوه تعامل اشیاء
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@opensource@Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [@article@GOF design patterns](https://springframework.guru/gang-of-four-design-patterns/)

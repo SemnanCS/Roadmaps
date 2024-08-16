@@ -1,37 +1,37 @@
-# Design and Development Principles
+# اصول طراحی و توسعه
 
-In this section, we'll discuss some essential design and development principles to follow while building the backend of any application. These principles will ensure that the backend is efficient, scalable, and maintainable.
+در این بخش، به بررسی برخی از اصول اساسی طراحی و توسعه خواهیم پرداخت که باید در هنگام ساخت بخش پشتی (backend) هر برنامه‌ای رعایت کنید. این اصول اطمینان حاصل می‌کنند که بخش پشتی کارآمد، مقیاس‌پذیر و قابل نگهداری باشد.
 
-## 1. Separation of Concerns (SoC)
+## 1. جداسازی نگرانی‌ها (SoC)
 
-Separation of Concerns is a fundamental principle that states that different functionalities of a system should be as independent as possible. This approach improves maintainability and scalability by allowing developers to work on separate components without affecting each other. Divide your backend into clear modules and layers, such as data storage, business logic, and network communication.
+اصول جداسازی نگرانی‌ها (Separation of Concerns) یک اصل بنیادی است که بیان می‌کند که عملکردهای مختلف یک سیستم باید تا حد امکان مستقل از یکدیگر باشند. این رویکرد باعث بهبود قابلیت نگهداری و مقیاس‌پذیری می‌شود، زیرا به توسعه‌دهندگان این امکان را می‌دهد که بر روی اجزای جداگانه کار کنند بدون اینکه بر یکدیگر تأثیر بگذارند. بخش پشتی خود را به ماژول‌ها و لایه‌های مشخصی مانند ذخیره‌سازی داده‌ها، منطق کسب‌وکار و ارتباطات شبکه تقسیم کنید.
 
-## 2. Reusability
+## 2. قابلیت استفاده مجدد
 
-Reusability is the ability to use components, functions, or modules in multiple places without duplicating code. While designing the backend, look for opportunities where you can reuse existing code. Use techniques like creating utility functions, abstract classes, and interfaces to promote reusability and reduce redundancy.
+قابلیت استفاده مجدد (Reusability) به معنای استفاده از اجزاء، توابع یا ماژول‌ها در مکان‌های مختلف بدون تکرار کد است. در هنگام طراحی بخش پشتی، به دنبال فرصت‌هایی باشید که می‌توانید از کد موجود دوباره استفاده کنید. از تکنیک‌هایی مانند ایجاد توابع کمکی، کلاس‌های انتزاعی و رابط‌ها برای ترویج قابلیت استفاده مجدد و کاهش تکرار استفاده کنید.
 
-## 3. Keep It Simple and Stupid (KISS)
+## 3. ساده و احمق (KISS)
 
-KISS principle states that the simpler the system, the easier it is to understand, maintain, and extend. When designing the backend, try to keep the architecture and code as simple as possible. Use clear naming conventions and modular structures, and avoid over-engineering and unnecessary complexity.
+اصل KISS بیان می‌کند که هرچه سیستم ساده‌تر باشد، درک، نگهداری و توسعه آن آسان‌تر است. هنگام طراحی بخش پشتی، سعی کنید معماری و کد را به ساده‌ترین شکل ممکن نگه‌دارید. از نام‌گذاری‌های واضح و ساختارهای ماژولار استفاده کنید و از پیچیدگی‌های غیرضروری و اضافه‌کاری بپرهیزید.
 
-## 4. Don't Repeat Yourself (DRY)
+## 4. تکرار نکنید (DRY)
 
-Do not duplicate code or functionality across your backend. Duplication can lead to inconsistency and maintainability issues. Instead, focus on creating reusable components, functions or modules, which can be shared across different parts of the backend.
+از تکرار کد یا عملکرد در بخش پشتی خود خودداری کنید. تکرار می‌تواند به عدم سازگاری و مشکلات نگهداری منجر شود. به جای آن، بر روی ایجاد اجزای قابل استفاده مجدد، توابع یا ماژول‌ها تمرکز کنید که می‌توانند در قسمت‌های مختلف بخش پشتی به اشتراک گذاشته شوند.
 
-## 5. Scalability
+## 5. مقیاس‌پذیری
 
-A scalable system is one that can efficiently handle an increasing number of users, requests, or data. Design the backend with scalability in mind, considering factors such as data storage, caching, load balancing, and horizontal scaling (adding more instances of the backend server).
+یک سیستم مقیاس‌پذیر سیستمی است که می‌تواند به طور کارآمد به تعداد رو به افزایش کاربران، درخواست‌ها یا داده‌ها پاسخ دهد. بخش پشتی را با در نظر گرفتن مقیاس‌پذیری طراحی کنید و عواملی مانند ذخیره‌سازی داده‌ها، کشینگ، توزیع بار و مقیاس‌پذیری افقی (اضافه کردن نمونه‌های بیشتر از سرور پشتی) را در نظر بگیرید.
 
-## 6. Security
+## 6. امنیت
 
-Security is a major concern when developing any application. Always follow best practices to prevent security flaws, such as protecting sensitive data, using secure communication protocols (e.g., HTTPS), implementing authentication and authorization mechanisms, and sanitizing user inputs.
+امنیت یک نگرانی عمده در هنگام توسعه هر برنامه‌ای است. همیشه بهترین شیوه‌ها را برای جلوگیری از نقص‌های امنیتی دنبال کنید، مانند محافظت از داده‌های حساس، استفاده از پروتکل‌های ارتباطی امن (مانند HTTPS)، پیاده‌سازی مکانیزم‌های احراز هویت و مجوز، و ضدعفونی کردن ورودی‌های کاربر.
 
-## 7. Testing
+## 7. تست
 
-Testing is crucial for ensuring the reliability and stability of the backend. Implement a comprehensive testing strategy, including unit, integration, and performance tests. Use automated testing tools and set up continuous integration (CI) and continuous deployment (CD) pipelines to streamline the testing and deployment process.
+تست برای اطمینان از قابلیت اطمینان و ثبات بخش پشتی بسیار مهم است. یک استراتژی تست جامع پیاده‌سازی کنید که شامل تست‌های واحد، یکپارچگی و عملکرد باشد. از ابزارهای تست خودکار استفاده کنید و خطوط لوله ادغام مداوم (CI) و استقرار مداوم (CD) را راه‌اندازی کنید تا فرآیند تست و استقرار را ساده‌تر کنید.
 
-## 8. Documentation
+## 8. مستندسازی
 
-Proper documentation helps developers understand and maintain the backend codebase. Write clear and concise documentation for your code, explaining the purpose, functionality, and how to use it. Additionally, use comments and appropriate naming conventions to make the code itself more readable and self-explanatory.
+مستندسازی مناسب به توسعه‌دهندگان کمک می‌کند تا کد بخش پشتی را درک کرده و نگهداری کنند. مستندات واضح و مختصری برای کد خود بنویسید که هدف، عملکرد و نحوه استفاده از آن را توضیح دهد. علاوه بر این، از نظرات و نام‌گذاری‌های مناسب برای قابل خواندن‌تر و خودتوضیحی‌تر کردن کد استفاده کنید.
 
-By following these design and development principles, you'll be well on your way to creating an efficient, secure, and maintainable backend for your applications.
+با پیروی از این اصول طراحی و توسعه، شما در مسیر ایجاد یک بخش پشتی کارآمد، امن و قابل نگهداری برای برنامه‌های خود خواهید بود.

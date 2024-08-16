@@ -1,8 +1,8 @@
-# Integration Testing
+# تست یکپارچگی
 
-Integration testing is a broad category of tests where multiple software modules are **integrated** and tested as a group. It is meant to test the **interaction** between multiple services, resources, or modules. For example, an API's interaction with a backend service, or a service with a database.
+تست یکپارچگی (Integration Testing) یک دسته وسیع از تست‌ها است که در آن چندین ماژول نرم‌افزاری **یکپارچه** شده و به عنوان یک گروه تست می‌شوند. این تست به منظور آزمایش **تعامل** بین چندین سرویس، منبع یا ماژول طراحی شده است. به عنوان مثال، تعامل یک API با یک سرویس بک‌اند یا یک سرویس با پایگاه داده.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Integration Testing](https://www.guru99.com/integration-testing.html)
 - [@article@How to Integrate and Test Your Tech Stack](https://thenewstack.io/how-to-integrate-and-test-your-tech-stack/)

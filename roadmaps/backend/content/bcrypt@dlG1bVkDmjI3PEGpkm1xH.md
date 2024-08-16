@@ -1,8 +1,8 @@
 # Bcrypt
 
-bcrypt is a password hashing function, that has been proven reliable and secure since it's release in 1999. It has been implemented into most commonly-used programming languages.
+bcrypt یک تابع هشینگ رمز عبور است که از زمان عرضه آن در سال 1999 به دلیل قابلیت اطمینان و امنیت خود ثابت شده است. این تابع به اکثر زبان‌های برنامه‌نویسی متداول پیاده‌سازی شده است.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@bcrypts npm package](https://www.npmjs.com/package/bcrypt)
 - [@article@Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)

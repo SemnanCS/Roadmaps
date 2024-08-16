@@ -1,7 +1,7 @@
 # Client Side Caching
 
-Client-side caching is the storage of network data to a local cache for future re-use. After an application fetches network data, it stores that resource in a local cache. Once a resource has been cached, the browser uses the cache on future requests for that resource to boost performance.
+کشینگ سمت کلاینت، ذخیره‌سازی داده‌های شبکه در یک کش محلی برای استفاده‌های آینده است. پس از اینکه یک برنامه داده‌های شبکه را بازیابی کرد، آن منبع را در کش محلی ذخیره می‌کند. پس از اینکه یک منبع کش شده است، مرورگر از کش در درخواست‌های آینده برای آن منبع استفاده می‌کند تا عملکرد را افزایش دهد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@video@Everything you need to know about HTTP Caching](https://www.youtube.com/watch?v=HiBDZgTNpXY)

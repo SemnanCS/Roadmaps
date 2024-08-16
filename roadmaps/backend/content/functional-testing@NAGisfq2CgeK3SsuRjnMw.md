@@ -1,9 +1,9 @@
 # Functional Testing
 
-Functional testing is where software is tested to ensure functional requirements are met. Usually, it is a form of black box testing in which the tester has no understanding of the source code; testing is performed by providing input and comparing expected/actual output.
-It contrasts with non-functional testing, which includes performance, load, scalability, and penetration testing.
+تست عملکردی (Functional Testing) زمانی است که نرم‌افزار برای اطمینان از برآورده شدن نیازمندی‌های عملکردی آزمایش می‌شود. معمولاً، این نوع تست به عنوان یک نوع تست جعبه سیاه (black box testing) است که در آن تست‌کننده هیچ درکی از کد منبع ندارد؛ تست با ارائه ورودی و مقایسه خروجی‌های مورد انتظار و واقعی انجام می‌شود.
+این نوع تست در تضاد با تست‌های غیرعملکردی (non-functional testing) است که شامل تست‌های عملکرد، بار، مقیاس‌پذیری و نفوذ می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is Functional Testing?](https://www.guru99.com/functional-testing.html)
 - [@video@Functional Testing vs Non-Functional Testing](https://youtu.be/j_79AXkG4PY)

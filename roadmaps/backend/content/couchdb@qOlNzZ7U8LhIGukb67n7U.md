@@ -1,8 +1,8 @@
 # CouchDB
 
-Apache CouchDB is an open-source document-oriented NoSQL database. It uses JSON to store data, JavaScript as its query language using MapReduce, and HTTP for an API. Unlike a relational database, a CouchDB database does not store data and relationships in tables. Instead, each database is a collection of independent documents. Each document maintains its own data and self-contained schema.
+Apache CouchDB یک پایگاه داده NoSQL مستند-محور متن‌باز است. این پایگاه داده از JSON برای ذخیره‌سازی داده‌ها، JavaScript به عنوان زبان پرس‌و‌جو با استفاده از MapReduce، و HTTP برای API استفاده می‌کند. برخلاف پایگاه‌های داده رابطه‌ای، پایگاه داده CouchDB داده‌ها و روابط را در جداول ذخیره نمی‌کند. در عوض، هر پایگاه داده مجموعه‌ای از اسناد مستقل است. هر سند داده‌های خود را حفظ می‌کند و یک طرح‌واره مستقل را نگهداری می‌کند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@CouchDB Website](https://couchdb.apache.org/)
 - [@article@CouchDB Documentation](https://docs.couchdb.org/)

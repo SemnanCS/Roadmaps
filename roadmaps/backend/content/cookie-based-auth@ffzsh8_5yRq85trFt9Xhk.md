@@ -1,7 +1,7 @@
 # Cookie-Based Authentication
 
-Cookies are pieces of data used to identify the user and their preferences. The browser returns the cookie to the server every time the page is requested. Specific cookies like HTTP cookies are used to perform cookie-based authentication to maintain the session for each user.
+کوکی‌ها قطعات داده‌ای هستند که برای شناسایی کاربر و ترجیحات او استفاده می‌شوند. مرورگر هر بار که صفحه درخواست می‌شود، کوکی را به سرور باز می‌گرداند. کوکی‌های خاصی مانند HTTP cookies برای انجام احراز هویت مبتنی بر کوکی‌ها استفاده می‌شوند تا جلسه هر کاربر را حفظ کنند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@How does cookie based authentication work?](https://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work)

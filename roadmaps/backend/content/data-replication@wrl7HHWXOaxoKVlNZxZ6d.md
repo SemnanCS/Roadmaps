@@ -1,7 +1,7 @@
 # Data Replication
 
-Data replication is the process by which data residing on a physical/virtual server(s) or cloud instance (primary instance) is continuously replicated or copied to a secondary server(s) or cloud instance (standby instance). Organizations replicate data to support high availability, backup, and/or disaster recovery.
+**Data replication** فرآیند کپی مداوم داده‌ها از یک سرور فیزیکی/مجازی یا نمونه ابری (نمونه اصلی) به سرور یا نمونه ابری ثانویه (نمونه پشتیبان) است. سازمان‌ها داده‌ها را برای پشتیبانی از **high availability**، **backup** و/یا **disaster recovery** تکرار می‌کنند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@video@What is Data Replication?](https://youtu.be/fUrKt-AQYtE)

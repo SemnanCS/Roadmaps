@@ -1,8 +1,8 @@
 # Database Indexes
 
-An index is a data structure that you build and assign on top of an existing table that basically looks through your table and tries to analyze and summarize so that it can create shortcuts.
+**Index** یک ساختار داده است که روی یک جدول موجود ساخته و اختصاص داده می‌شود و به طور اساسی به جستجوی جدول شما می‌پردازد و سعی می‌کند آن را تجزیه و تحلیل کرده و خلاصه کند تا بتواند میانبرهایی ایجاد کند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@An in-depth look at Database Indexing](https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/)
 - [@video@Database Indexing Explained](https://www.youtube.com/watch?v=-qNSXK7s7_w)

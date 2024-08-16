@@ -1,10 +1,10 @@
 # Bitbucket
 
-Bitbucket is a Git based hosting and source code repository service that is Atlassian's alternative to other products like GitHub, GitLab etc
+Bitbucket یک سرویس میزبانی و مخزن کد منبع مبتنی بر Git است که به عنوان جایگزین Atlassian برای محصولات دیگری مانند GitHub و GitLab به شمار می‌آید.
 
-Bitbucket offers hosting options via Bitbucket Cloud (Atlassian's servers), Bitbucket Server (customer's on-premise) or Bitbucket Data Centre (number of servers in customers on-premise or cloud environment)
+Bitbucket گزینه‌های میزبانی را از طریق Bitbucket Cloud (سرورهای Atlassian)، Bitbucket Server (محل مشتری) یا Bitbucket Data Centre (تعدادی سرور در محل مشتری یا محیط Cloud) ارائه می‌دهد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@Bitbucket Website](https://bitbucket.org/product)
 - [@official@Getting started with Bitbucket](https://bitbucket.org/product/guides/basics/bitbucket-interface)

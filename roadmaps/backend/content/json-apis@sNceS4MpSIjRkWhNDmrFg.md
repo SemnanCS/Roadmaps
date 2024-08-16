@@ -1,9 +1,9 @@
 # JSON APIs
 
-JSON or JavaScript Object Notation is an encoding scheme that is designed to eliminate the need for an ad-hoc code for each application to communicate with servers that communicate in a defined way. JSON API module exposes an implementation for data stores and data structures, such as entity types, bundles, and fields.
+JSON یا JavaScript Object Notation یک طرح رمزگذاری است که برای حذف نیاز به کدهای خاص برای هر برنامه به منظور ارتباط با سرورها که به صورت تعریف شده ارتباط برقرار می‌کنند، طراحی شده است. ماژول JSON API پیاده‌سازی‌ای برای ذخیره‌سازهای داده و ساختارهای داده، مانند نوع‌های موجودیت، بسته‌ها و فیلدها را ارائه می‌دهد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@Official Website](https://jsonapi.org/)
 - [@official@Official Docs](https://jsonapi.org/implementations/)
-- [@video@JSON API: Explained in 4 minutes ](https://www.youtube.com/watch?v=N-4prIh7t38)
+- [@video@JSON API: Explained in 4 minutes](https://www.youtube.com/watch?v=N-4prIh7t38)

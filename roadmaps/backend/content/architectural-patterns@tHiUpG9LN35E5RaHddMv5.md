@@ -1,7 +1,7 @@
-# Architectural Patterns
+# الگوهای معماری
 
-An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. The architectural patterns address various issues in software engineering, such as computer hardware performance limitations, high availability and minimization of a business risk.
+یک الگوی معماری، راه‌حل کلی و قابل استفاده مجددی برای یک مشکل رایج در معماری نرم‌افزار در یک بستر خاص است. الگوهای معماری به موضوعات مختلفی در مهندسی نرم‌افزار می‌پردازند، از جمله محدودیت‌های عملکرد سخت‌افزار رایانه، در دسترس بودن بالا و به حداقل رساندن ریسک کسب و کار.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)

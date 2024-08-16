@@ -1,12 +1,12 @@
 # HTTPS
 
-HTTPS is a secure way to send data between a web server and a browser.
+HTTPS یک روش امن برای ارسال داده‌ها بین یک وب سرور و یک مرورگر است.
 
-A communication through HTTPS starts with the handshake phase during which the server and the client agree on how to encrypt the communication, in particular they choose an encryption algorithm and a secret key. After the handshake all the communication between the server and the client will be encrypted using the agreed upon algorithm and key.
+ارتباط از طریق HTTPS با مرحله دست دادن (handshake) آغاز می‌شود، جایی که سرور و کلاینت توافق می‌کنند که چگونه ارتباط را رمزگذاری کنند. به طور خاص، آن‌ها یک الگوریتم رمزگذاری و یک کلید مخفی را انتخاب می‌کنند. پس از مرحله دست دادن، تمام ارتباطات بین سرور و کلاینت با استفاده از الگوریتم و کلید توافق‌شده رمزگذاری خواهد شد.
 
-The handshake phase uses a particular kind of cryptography, called asymmetric cryptography, to communicate securely even though client and server have not yet agreed on a secret key. After the handshake phase the HTTPS communication is encrypted with symmetric cryptography, which is much more efficient but requires client and server to both have knowledge of the secret key.
+مرحله دست دادن از نوع خاصی از رمزنگاری به نام رمزنگاری نامتقارن استفاده می‌کند تا به طور امن ارتباط برقرار کند، حتی اگر کلاینت و سرور هنوز بر روی یک کلید مخفی توافق نکرده باشند. پس از مرحله دست دادن، ارتباط HTTPS با استفاده از رمزنگاری متقارن که بسیار کارآمدتر است، رمزگذاری می‌شود، اما نیاز به این دارد که کلاینت و سرور هر دو از کلید مخفی آگاه باشند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
 - [@article@Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)

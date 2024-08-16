@@ -1,8 +1,8 @@
 # CAP Theorem
 
-CAP is an acronym that stands for Consistency, Availability and Partition Tolerance. According to CAP theorem, any distributed system can only guarantee two of the three properties at any point of time. You can't guarantee all three properties at once.
+CAP یک مخفف است که به معنای Consistency، Availability و Partition Tolerance می‌باشد. بر اساس نظریه CAP، هر سیستم توزیع شده تنها می‌تواند دو از سه ویژگی را در هر لحظه تضمین کند. نمی‌توانید هر سه ویژگی را به طور همزمان تضمین کنید.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is CAP Theorem?](https://www.bmc.com/blogs/cap-theorem/)
 - [@article@CAP Theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)

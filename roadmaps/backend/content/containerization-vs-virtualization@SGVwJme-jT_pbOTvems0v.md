@@ -1,9 +1,9 @@
 # Containerization vs. Virtualization
 
-Containers and virtual machines are the two most popular approaches to setting up a software infrastructure for your organization.
+کانتینرها و ماشین‌های مجازی دو رویکرد محبوب برای راه‌اندازی زیرساخت نرم‌افزاری در سازمان شما هستند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Containerization vs. Virtualization: Everything you need to know](https://middleware.io/blog/containerization-vs-virtualization/)
-- [@video@Containerization or Virtualization - The Differences ](https://www.youtube.com/watch?v=1WnDHitznGY)
+- [@video@Containerization or Virtualization - The Differences](https://www.youtube.com/watch?v=1WnDHitznGY)
 - [@feed@Explore top posts about Containers](https://app.daily.dev/tags/containers?ref=roadmapsh)

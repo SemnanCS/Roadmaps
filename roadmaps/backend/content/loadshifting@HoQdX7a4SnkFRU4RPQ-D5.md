@@ -1,11 +1,11 @@
 # Load Shifting
 
-Load shifting is a design pattern that is used to manage the workload of a system by shifting the load to different components or resources at different times. It is commonly used in cloud computing environments to balance the workload of a system and to optimize the use of resources.
+بارگذاری متغیر یک الگوی طراحی است که برای مدیریت بار سیستم با جابجایی بار به اجزای مختلف یا منابع در زمان‌های مختلف استفاده می‌شود. این الگو به‌ویژه در محیط‌های محاسبات ابری برای تعادل بار سیستم و بهینه‌سازی استفاده از منابع کاربرد دارد.
 
-There are several ways to implement load shifting in a cloud environment:
+چندین روش برای پیاده‌سازی بارگذاری متغیر در یک محیط ابری وجود دارد:
 
-- Scheduling: This involves scheduling the execution of tasks or workloads to occur at specific times or intervals.
-- Load balancing: This involves distributing the workload of a system across multiple resources, such as servers or containers, to ensure that the workload is balanced and that resources are used efficiently.
-- Auto-scaling: This involves automatically adjusting the number of resources that are available to a system based on the workload, allowing the system to scale up or down as needed.
+- **برنامه‌ریزی (Scheduling):** شامل برنامه‌ریزی اجرای وظایف یا بارها برای وقوع در زمان‌ها یا فواصل خاص است.
+- **تعادل بار (Load Balancing):** شامل توزیع بار سیستم در میان منابع متعدد، مانند سرورها یا کانتینرها، به‌منظور اطمینان از تعادل بار و استفاده کارآمد از منابع است.
+- **مقیاس‌پذیری خودکار (Auto-scaling):** شامل تنظیم خودکار تعداد منابع در دسترس برای یک سیستم بر اساس بار است، که به سیستم اجازه می‌دهد تا به‌طور خودکار مقیاس‌پذیری داشته باشد.
 
-Load shifting is an important aspect of cloud design, as it helps to ensure that resources are used efficiently and that the system remains stable and available. It is often used in conjunction with other design patterns, such as throttling and backpressure, to provide a scalable and resilient cloud environment.
+بارگذاری متغیر جنبه مهمی از طراحی ابری است، زیرا به‌اطمینان از استفاده بهینه از منابع و پایداری و در دسترس بودن سیستم کمک می‌کند. این الگو غالباً به همراه دیگر الگوهای طراحی، مانند محدود کردن و فشار برگشتی، برای ارائه محیط ابری مقیاس‌پذیر و مقاوم استفاده می‌شود.

@@ -1,16 +1,16 @@
 # Domain-Driven Design
 
-Domain-driven design (DDD) is a software design approach focusing on modeling software to match a domain according to input from that domain's experts.
+طراحی مبتنی بر دامنه (DDD) رویکردی در طراحی نرم‌افزار است که بر مدلسازی نرم‌افزار به گونه‌ای که با دامنه‌ای که ورودی آن از کارشناسان آن دامنه است، تطابق داشته باشد، تمرکز دارد.
 
-In terms of object-oriented programming, it means that the structure and language of software code (class names, class methods, class variables) should match the business domain. For example, if a software processes loan applications, it might have classes like LoanApplication and Customer, and methods such as AcceptOffer and Withdraw.
+از نظر برنامه‌نویسی شیءگرا، به این معناست که ساختار و زبان کد نرم‌افزار (نام کلاس‌ها، متدهای کلاس، متغیرهای کلاس) باید با دامنه کسب‌وکار مطابقت داشته باشد. به عنوان مثال، اگر نرم‌افزار برای پردازش درخواست‌های وام طراحی شده باشد، ممکن است کلاس‌هایی مانند LoanApplication و Customer و متدهایی مانند AcceptOffer و Withdraw داشته باشد.
 
-DDD connects the implementation to an evolving model and it is predicated on the following goals:
+DDD پیاده‌سازی را به یک مدل در حال تکامل متصل می‌کند و بر اهداف زیر مبتنی است:
 
-- Placing the project's primary focus on the core domain and domain logic;
-- Basing complex designs on a model of the domain;
-- Initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems.
+- قرار دادن تمرکز اصلی پروژه بر روی دامنه اصلی و منطق دامنه؛
+- پایه‌گذاری طراحی‌های پیچیده بر اساس مدل دامنه؛
+- آغاز همکاری خلاقانه بین کارشناسان فنی و دامنه به منظور تصفیه تدریجی مدل مفهومی که مشکلات خاص دامنه را حل می‌کند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Domain-Driven Design](https://redis.com/glossary/domain-driven-design-ddd/)
 - [@article@Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)

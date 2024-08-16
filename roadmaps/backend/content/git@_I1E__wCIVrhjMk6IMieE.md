@@ -1,8 +1,8 @@
 # Git
 
-[Git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+[Git](https://git-scm.com/) یک سیستم کنترل نسخه توزیع شده رایگان و منبع باز است که برای مدیریت همه چیز از پروژه‌های کوچک تا بسیار بزرگ با سرعت و کارایی طراحی شده است.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
 - [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)

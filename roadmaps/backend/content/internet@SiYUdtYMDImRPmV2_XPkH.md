@@ -1,8 +1,8 @@
-# Internet
+# اینترنت
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+اینترنت یک شبکه جهانی از کامپیوترها است که به یکدیگر متصل شده و از طریق مجموعه‌ای استاندارد از پروتکل‌ها ارتباط برقرار می‌کنند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
 - [@article@The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)

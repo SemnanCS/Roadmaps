@@ -1,12 +1,12 @@
 # Instrumentation, Monitoring, and Telemetry
 
-Instrumentation refers to the measure of a product's performance, in order to diagnose errors and to write trace information. Instrumentation can be of two types: source instrumentation and binary instrumentation.
+Instrumentation به اندازه‌گیری عملکرد یک محصول برای تشخیص خطاها و نوشتن اطلاعات ردیابی اشاره دارد. Instrumentation می‌تواند به دو نوع تقسیم شود: source instrumentation و binary instrumentation.
 
-Backend monitoring allows the user to view the performance of infrastructure i.e. the components that run a web application. These include the HTTP server, middleware, database, third-party API services, and more.
+نظارت بر بک‌اند به کاربران این امکان را می‌دهد که عملکرد زیرساخت، یعنی اجزایی که یک برنامه وب را اجرا می‌کنند، مشاهده کنند. این اجزا شامل HTTP server، میدل‌ور، پایگاه داده، خدمات API خارجی و غیره می‌باشند.
 
-Telemetry is the process of continuously collecting data from different components of the application. This data helps engineering teams to troubleshoot issues across services and identify the root causes. In other words, telemetry data powers observability for your distributed applications.
+Telemetry فرآیند جمع‌آوری مداوم داده‌ها از اجزای مختلف برنامه است. این داده‌ها به تیم‌های مهندسی کمک می‌کند تا مشکلات را در سراسر خدمات شناسایی کرده و علت‌های اصلی آن‌ها را بیابند. به عبارت دیگر، داده‌های telemetry قدرت مشاهده‌پذیری را برای برنامه‌های توزیع‌شده شما فراهم می‌آورد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is Instrumentation?](https://en.wikipedia.org/wiki/Instrumentation_\(computer_programming\))
 - [@article@What is Monitoring?](https://www.yottaa.com/performance-monitoring-backend-vs-front-end-solutions/)

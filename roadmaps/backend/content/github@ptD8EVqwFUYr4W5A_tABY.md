@@ -1,8 +1,8 @@
 # GitHub
 
-GitHub is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+GitHub یک ارائه‌دهنده میزبانی اینترنتی برای توسعه نرم‌افزار و کنترل نسخه با استفاده از Git است. این پلتفرم عملکرد کنترل نسخه توزیع‌شده و مدیریت کد منبع Git را ارائه می‌دهد و ویژگی‌های خاص خود را نیز دارد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@opensource@GitHub Website](https://github.com)
 - [@article@GitHub Documentation](https://docs.github.com/en/get-started/quickstart)

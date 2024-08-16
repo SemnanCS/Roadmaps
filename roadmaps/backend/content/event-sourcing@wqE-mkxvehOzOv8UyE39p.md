@@ -1,12 +1,12 @@
 # Event Sourcing
 
-Event sourcing is a design pattern in which the state of a system is represented as a sequence of events that have occurred over time. In an event-sourced system, changes to the state of the system are recorded as events and stored in an event store. The current state of the system is derived by replaying the events from the event store.
+Event sourcing یک الگوی طراحی است که در آن وضعیت یک سیستم به عنوان دنباله‌ای از وقایع که در طول زمان رخ داده‌اند، نمایان می‌شود. در یک سیستم مبتنی بر Event Sourcing، تغییرات در وضعیت سیستم به صورت وقایع ثبت شده و در یک event store ذخیره می‌شود. وضعیت فعلی سیستم از طریق پخش دوباره وقایع از event store به دست می‌آید.
 
-One of the main benefits of event sourcing is that it provides a clear and auditable history of all the changes that have occurred in the system. This can be useful for debugging and for tracking the evolution of the system over time.
+یکی از مزایای اصلی Event Sourcing این است که تاریخچه واضح و قابل حسابرسی از تمامی تغییرات رخ داده در سیستم را ارائه می‌دهد. این می‌تواند برای اشکال‌زدایی و پیگیری تکامل سیستم در طول زمان مفید باشد.
 
-Event sourcing is often used in conjunction with other patterns, such as Command Query Responsibility Segregation (CQRS) and domain-driven design, to build scalable and responsive systems with complex business logic. It is also useful for building systems that need to support undo/redo functionality or that need to integrate with external systems.
+Event Sourcing اغلب همراه با الگوهای دیگر، مانند Command Query Responsibility Segregation (CQRS) و طراحی مبتنی بر دامنه، برای ساخت سیستم‌های مقیاس‌پذیر و پاسخگو با منطق کسب‌وکار پیچیده استفاده می‌شود. همچنین برای ساخت سیستم‌هایی که نیاز به پشتیبانی از قابلیت‌های undo/redo یا ادغام با سیستم‌های خارجی دارند، مفید است.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Event Sourcing - Martin Fowler](https://martinfowler.com/eaaDev/EventSourcing.html)
 - [@feed@Explore top posts about Architecture](https://app.daily.dev/tags/architecture?ref=roadmapsh)

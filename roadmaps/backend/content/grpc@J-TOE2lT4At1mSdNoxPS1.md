@@ -1,10 +1,10 @@
 # gRPC
 
-gRPC is a high-performance, open source universal RPC framework
+**gRPC** یک چارچوب RPC (درخواست procedure از راه دور) با عملکرد بالا و متن‌باز است.
 
-RPC stands for Remote Procedure Call, there's an ongoing debate on what the g stands for. RPC is a protocol that allows a program to execute a procedure of another program located on another computer. The great advantage is that the developer doesn’t need to code the details of the remote interaction. The remote procedure is called like any other function. But the client and the server can be coded in different languages.
+RPC به معنای "درخواست procedure از راه دور" است و بحث‌های مداومی درباره معنای حرف g وجود دارد. RPC یک پروتکل است که به یک برنامه اجازه می‌دهد تا procedure‌ای از برنامه‌ای دیگر که بر روی کامپیوتر دیگری قرار دارد را اجرا کند. مزیت بزرگ آن این است که توسعه‌دهنده نیازی به کدنویسی جزئیات تعامل از راه دور ندارد. procedure از راه دور مانند هر تابع دیگری فراخوانی می‌شود. اما کلاینت و سرور می‌توانند به زبان‌های مختلفی کدنویسی شوند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@gRPC Website](https://grpc.io/)
 - [@official@gRPC Docs](https://grpc.io/docs/)

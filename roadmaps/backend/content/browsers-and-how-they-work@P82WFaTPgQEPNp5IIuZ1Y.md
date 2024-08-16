@@ -1,8 +1,8 @@
 # Browsers
 
-A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.
+یک مرورگر وب یک برنامه نرم‌افزاری است که به کاربر این امکان را می‌دهد تا صفحات وب یا محتوای آنلاین دیگر را از طریق رابط گرافیکی کاربر مشاهده و نمایش دهد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [@article@Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)

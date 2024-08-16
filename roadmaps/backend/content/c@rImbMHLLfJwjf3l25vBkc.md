@@ -1,8 +1,8 @@
-# C\#
+# C#
 
-C# (pronounced "C sharp") is a general purpose programming language made by Microsoft. It is used to perform different tasks and can be used to create web apps, games, mobile apps, etc.
+C# (تلفظ شده به صورت "C sharp") یک زبان برنامه‌نویسی عمومی است که توسط Microsoft ساخته شده است. از این زبان برای انجام کارهای مختلف استفاده می‌شود و می‌توان از آن برای ایجاد برنامه‌های وب، بازی‌ها، برنامه‌های موبایل و غیره استفاده کرد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@C# Learning Path](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website)
 - [@article@C# on W3 schools](https://www.w3schools.com/cs/index.php)

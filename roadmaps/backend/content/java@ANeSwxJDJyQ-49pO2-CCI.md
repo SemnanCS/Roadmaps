@@ -1,9 +1,9 @@
-# Java
+# جاوا
 
-Java is general-purpose language, primarily used for Internet-based applications.
-It was created in 1995 by James Gosling at Sun Microsystems and is one of the most popular options for backend developers.
+جاوا یک زبان برنامه‌نویسی چندمنظوره است که به‌طور عمده برای برنامه‌های مبتنی بر اینترنت استفاده می‌شود.
+این زبان در سال ۱۹۹۵ توسط جیمز گاسلینگ در شرکت Sun Microsystems ایجاد شد و یکی از محبوب‌ترین گزینه‌ها برای توسعه‌دهندگان بک‌اند است.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@roadmap@Visit Dedicated Java Roadmap](/java)
 - [@official@Java Website](https://www.java.com/)

@@ -1,21 +1,21 @@
 # Building for Scale
 
-Speaking in general terms, scalability is the ability of a system to handle a growing amount of work by adding resources to it.
+به طور کلی، مقیاس‌پذیری توانایی یک سیستم برای مدیریت مقدار رو به رشد کار از طریق افزودن منابع به آن است.
 
-A software that was conceived with a scalable architecture in mind, is a system that will support higher workloads without any fundamental changes to it, but don't be fooled, this isn't magic. You'll only get so far with smart thinking without adding more sources to it.
+نرم‌افزاری که با معماری مقیاس‌پذیر طراحی شده است، سیستمی است که قادر به پشتیبانی از بارهای کاری بیشتر بدون نیاز به تغییرات بنیادی در آن خواهد بود، اما فریب نخورید، این معجزه نیست. با تفکر هوشمندانه به تنهایی نمی‌توانید پیشرفت زیادی کنید بدون اینکه منابع بیشتری اضافه کنید.
 
-For a system to be scalable, there are certain things you must pay attention to, like:
+برای اینکه یک سیستم مقیاس‌پذیر باشد، نکات خاصی وجود دارد که باید به آن‌ها توجه کنید، مانند:
 
 - Coupling
 - Observability
 - Evolvability
 - Infrastructure
 
-When you think about the infrastructure of a scalable system, you have two main ways of building it: using on-premises resources or leveraging all the tools a cloud provider can give you.
+وقتی به زیرساخت یک سیستم مقیاس‌پذیر فکر می‌کنید، دو روش اصلی برای ساخت آن وجود دارد: استفاده از منابع در محل (on-premises) یا بهره‌برداری از تمام ابزارهایی که ارائه‌دهندگان Cloud می‌توانند به شما بدهند.
 
-The main difference between on-premises and cloud resources will be FLEXIBILITY, on cloud providers you don't really need to plan ahead, you can upgrade your infrastructure with a couple of clicks, while with on-premises resources you will need a certain level of planning.
+تفاوت اصلی بین منابع در محل و منابع Cloud در FLEXIBILITY است؛ در ارائه‌دهندگان Cloud، نیازی به برنامه‌ریزی دقیق ندارید، می‌توانید زیرساخت خود را با چند کلیک ارتقاء دهید، در حالی که با منابع در محل نیاز به سطح معینی از برنامه‌ریزی خواهید داشت.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Scalable Architecture: A Definition and How-To Guide](https://www.sentinelone.com/blog/scalable-architecture/)
 - [@video@Scaling Distributed Systems - Software Architecture Introduction](https://www.youtube.com/watch?v=gxfERVP18-g)

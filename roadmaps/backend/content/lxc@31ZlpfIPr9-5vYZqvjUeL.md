@@ -1,8 +1,8 @@
 # LXC
 
-LXC is an abbreviation used for Linux Containers which is an operating system that is used for running multiple Linux systems virtually on a controlled host via a single Linux kernel. LXC is a userspace interface for the Linux kernel containment features. Through a powerful API and simple tools, it lets Linux users easily create and manage system or application containers.
+LXC مخفف Linux Containers است که یک سیستم‌عامل برای اجرای چندین سیستم لینوکس به‌طور مجازی بر روی یک میزبان کنترل‌شده از طریق یک هسته لینوکس واحد است. LXC یک رابط کاربری برای ویژگی‌های containment هسته لینوکس است. با استفاده از یک API قدرتمند و ابزارهای ساده، به کاربران لینوکس این امکان را می‌دهد که به راحتی کانتینرهای سیستم یا برنامه را ایجاد و مدیریت کنند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
 - [@article@What is LXC?](https://linuxcontainers.org/lxc/introduction/)

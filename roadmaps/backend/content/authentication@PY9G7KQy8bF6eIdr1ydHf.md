@@ -1,8 +1,8 @@
 # Authentication
 
-The API authentication process validates the identity of the client attempting to make a connection by using an authentication protocol. The protocol sends the credentials from the remote client requesting the connection to the remote access server in either plain text or encrypted form. The server then knows whether it can grant access to that remote client or not.
+فرآیند Authentication API هویت کلاینتی را که قصد ایجاد یک اتصال را دارد، با استفاده از یک پروتکل Authentication تأیید می‌کند. این پروتکل، Credentials را از کلاینت راه دور که اتصال را درخواست می‌کند به سرور دسترسی راه دور ارسال می‌کند، به صورت متن ساده یا رمزنگاری شده. سپس سرور تعیین می‌کند که آیا می‌تواند به آن کلاینت راه دور دسترسی بدهد یا خیر.
 
-Here is the list of common ways of authentication:
+در اینجا لیستی از روش‌های رایج Authentication آورده شده است:
 
 - JWT Authentication
 - Token based Authentication
@@ -11,7 +11,7 @@ Here is the list of common ways of authentication:
 - OAuth - Open Authorization
 - SSO - Single Sign On
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@User Authentication: Understanding the Basics & Top Tips](https://swoopnow.com/user-authentication/)
 - [@article@An overview about authentication methods](https://betterprogramming.pub/how-do-you-authenticate-mate-f2b70904cc3a)

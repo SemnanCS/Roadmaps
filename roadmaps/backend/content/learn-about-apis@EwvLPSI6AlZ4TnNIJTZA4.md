@@ -1,8 +1,8 @@
 # APIs
 
-API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other.
+API مخفف Application Programming Interface است، که یک واسط نرم‌افزاری است که به دو برنامه اجازه می‌دهد تا با یکدیگر ارتباط برقرار کنند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is an API?](https://aws.amazon.com/what-is/api/)
 - [@video@What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)

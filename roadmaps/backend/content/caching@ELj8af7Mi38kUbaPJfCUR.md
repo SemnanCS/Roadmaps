@@ -1,3 +1,3 @@
 # Caching
 
-Caching is a technique of storing frequently used data or information in a local memory, for a certain time period. So, next time, when the client requests the same information, instead of retrieving the information from the database, it will give the information from the local memory. The main advantage of caching is that it improves the performance by reducing the processing burden.
+Caching یک تکنیک برای ذخیره داده‌ها یا اطلاعاتی است که به طور مکرر استفاده می‌شود در حافظه محلی، برای یک بازه زمانی معین. بنابراین، دفعه بعد که کلاینت همان اطلاعات را درخواست کند، به جای بازیابی اطلاعات از پایگاه داده، اطلاعات را از حافظه محلی ارائه خواهد داد. مزیت اصلی Caching این است که با کاهش بار پردازش، عملکرد را بهبود می‌بخشد.

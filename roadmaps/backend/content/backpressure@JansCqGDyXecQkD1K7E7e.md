@@ -1,15 +1,15 @@
 # Backpressure
 
-Backpressure is a design pattern that is used to manage the flow of data through a system, particularly in situations where the rate of data production exceeds the rate of data consumption. It is commonly used in cloud computing environments to prevent overloading of resources and to ensure that data is processed in a timely and efficient manner.
+Backpressure یک الگوی طراحی است که برای مدیریت جریان داده‌ها در یک سیستم به کار می‌رود، به ویژه در مواقعی که نرخ تولید داده‌ها از نرخ مصرف آن‌ها بیشتر است. این الگو به طور معمول در محیط‌های Cloud Computing استفاده می‌شود تا از بارگذاری بیش از حد منابع جلوگیری کرده و اطمینان حاصل شود که داده‌ها به موقع و به صورت کارآمد پردازش می‌شوند.
 
-There are several ways to implement backpressure in a cloud environment:
+راه‌های متعددی برای پیاده‌سازی Backpressure در محیط Cloud وجود دارد:
 
-- Buffering: This involves storing incoming data in a buffer until it can be processed, allowing the system to continue receiving data even if it is temporarily unable to process it.
-- Batching: This involves grouping incoming data into batches and processing the batches in sequence, rather than processing each piece of data individually.
-- Flow control: This involves using mechanisms such as flow control signals or windowing to regulate the rate at which data is transmitted between systems.
+- **Buffering**: این روش شامل ذخیره داده‌های ورودی در یک بافر تا زمانی است که بتوان آن را پردازش کرد، و به سیستم اجازه می‌دهد حتی در صورت ناتوانی موقت در پردازش، داده‌ها را دریافت کند.
+- **Batching**: این روش شامل گروه‌بندی داده‌های ورودی به دسته‌ها و پردازش دسته‌ها به صورت پی‌درپی است، به جای پردازش هر قطعه داده به صورت جداگانه.
+- **Flow control**: این روش شامل استفاده از مکانیزم‌هایی مانند سیگنال‌های کنترل جریان یا Windowing برای تنظیم نرخ انتقال داده‌ها بین سیستم‌ها است.
 
-Backpressure is an important aspect of cloud design, as it helps to ensure that data is processed efficiently and that the system remains stable and available. It is often used in conjunction with other design patterns, such as auto-scaling and load balancing, to provide a scalable and resilient cloud environment.
+Backpressure یک جنبه مهم در طراحی Cloud است، زیرا کمک می‌کند داده‌ها به طور کارآمد پردازش شوند و سیستم پایدار و در دسترس باقی بماند. این الگو معمولاً به همراه دیگر الگوهای طراحی مانند Auto-scaling و Load Balancing برای ارائه یک محیط Cloud مقیاس‌پذیر و مقاوم استفاده می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Awesome Architecture: Backpressure](https://awesome-architecture.com/back-pressure/)

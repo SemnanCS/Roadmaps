@@ -1,8 +1,8 @@
 # GitLab
 
-GitLab is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+GitLab یک ارائه‌دهنده میزبانی اینترنتی برای توسعه نرم‌افزار و کنترل نسخه با استفاده از Git است. این پلتفرم عملکرد کنترل نسخه توزیع‌شده و مدیریت کد منبع Git را ارائه می‌دهد و ویژگی‌های خاص خود را نیز دارد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@opensource@GitLab Website](https://gitlab.com/)
 - [@article@GitLab Documentation](https://docs.gitlab.com/)

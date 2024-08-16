@@ -1,10 +1,10 @@
 # CDN (Content Delivery Network)
 
-A Content Delivery Network (CDN) service aims to provide high availability and performance improvements of websites. This is achieved with fast delivery of website assets and content typically via geographically closer endpoints to the client requests.
-Traditional commercial CDNs (Amazon CloudFront, Akamai, CloudFlare and Fastly) provide servers across the globe which can be used for this purpose.
-Serving assets and contents via a CDN reduces bandwidth on website hosting, provides an extra layer of caching to reduce potential outages and can improve website security as well
+شبکه توزیع محتوا (CDN) به دنبال ارائه قابلیت دسترسی بالا و بهبود عملکرد وب‌سایت‌ها است. این هدف با ارائه سریع دارایی‌ها و محتوای وب‌سایت از طریق نقاط پایانی جغرافیایی نزدیک‌تر به درخواست‌های کلاینت‌ها به دست می‌آید.
+CDNهای تجاری سنتی (مانند Amazon CloudFront، Akamai، CloudFlare و Fastly) سرورهایی در سراسر جهان ارائه می‌دهند که می‌توانند برای این هدف استفاده شوند.
+ارائه دارایی‌ها و محتوا از طریق CDN باعث کاهش پهنای باند در میزبانی وب‌سایت، فراهم کردن لایه اضافی از کش برای کاهش اختلالات احتمالی و همچنین بهبود امنیت وب‌سایت می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@CloudFlare - What is a CDN? | How do CDNs work?](https://www.cloudflare.com/en-ca/learning/cdn/what-is-a-cdn/)
 - [@article@Wikipedia - Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)

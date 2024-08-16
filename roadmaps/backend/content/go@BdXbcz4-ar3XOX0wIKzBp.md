@@ -1,8 +1,8 @@
 # Go
 
-Go is an open source programming language supported by Google. Go can be used to write cloud services, CLI tools, used for API development, and much more.
+Go یک زبان برنامه‌نویسی منبع باز است که توسط Google پشتیبانی می‌شود. Go می‌تواند برای نوشتن خدمات ابری، ابزارهای CLI، توسعه API و بسیاری از کاربردهای دیگر استفاده شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@roadmap@Visit Dedicated Go Roadmap](/golang)
 - [@official@A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)

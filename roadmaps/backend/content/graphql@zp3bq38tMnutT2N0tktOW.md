@@ -1,14 +1,14 @@
 # GraphQL
 
-GraphQL is a query language and runtime system for APIs (application programming interfaces). It is designed to provide a flexible and efficient way for clients to request data from servers, and it is often used as an alternative to REST (representational state transfer) APIs.
+**GraphQL** یک زبان کوئری و سیستم زمان‌اجرای برای **APIs** (رابط‌های برنامه‌نویسی کاربردی) است. این سیستم به منظور ارائه یک روش انعطاف‌پذیر و کارآمد برای درخواست داده‌ها از سرورها طراحی شده است و غالباً به عنوان یک جایگزین برای **REST** (انتقال وضعیت نمایشی) APIs استفاده می‌شود.
 
-One of the main features of GraphQL is its ability to specify exactly the data that is needed, rather than receiving a fixed set of data from an endpoint. This allows clients to request only the data that they need, and it reduces the amount of data that needs to be transferred over the network.
+یکی از ویژگی‌های اصلی GraphQL توانایی آن در تعیین دقیق داده‌های مورد نیاز است، به جای دریافت یک مجموعه ثابت از داده‌ها از یک نقطه انتهایی. این امکان به کلاینت‌ها اجازه می‌دهد تنها داده‌های مورد نیاز خود را درخواست کنند و مقدار داده‌های منتقل شده در شبکه را کاهش می‌دهد.
 
-GraphQL also provides a way to define the structure of the data that is returned from the server, allowing clients to request data in a predictable and flexible way. This makes it easier to build and maintain client applications that depend on data from the server.
+GraphQL همچنین راهی برای تعریف ساختار داده‌های برگشتی از سرور فراهم می‌آورد، که به کلاینت‌ها اجازه می‌دهد داده‌ها را به صورت قابل پیش‌بینی و انعطاف‌پذیر درخواست کنند. این امر ساخت و نگهداری برنامه‌های کلاینتی که به داده‌های سرور وابسته‌اند را آسان‌تر می‌کند.
 
-GraphQL is widely used in modern web and mobile applications, and it is supported by a large and active developer community.
+GraphQL به طور گسترده‌ای در برنامه‌های وب و موبایل مدرن استفاده می‌شود و از سوی یک جامعه توسعه‌دهنده بزرگ و فعال پشتیبانی می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@GraphQL Official Website](https://graphql.org/)
 - [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

@@ -1,8 +1,8 @@
 # JWT
 
-JWT stands for JSON Web Token is a token-based encryption open standard/methodology that is used to transfer information securely as a JSON object. Clients and Servers use JWT to securely share information, with the JWT containing encoded JSON objects and claims. JWT tokens are designed to be compact, safe to use within URLs, and ideal for SSO contexts.
+JWT مخفف JSON Web Token است و یک استاندارد/روش رمزگذاری مبتنی بر توکن است که برای انتقال اطلاعات به صورت امن به عنوان یک شیء JSON استفاده می‌شود. کلاینت‌ها و سرورها از JWT برای به اشتراک‌گذاری امن اطلاعات استفاده می‌کنند، با این که JWT شامل اشیاء JSON رمزگذاری شده و ادعاها است. توکن‌های JWT به گونه‌ای طراحی شده‌اند که فشرده، ایمن برای استفاده در URLها و ایده‌آل برای زمینه‌های SSO (ورود یک‌بار مصرف) هستند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@jwt.io Website](https://jwt.io/)
 - [@official@Introduction to JSON Web Tokens](https://jwt.io/introduction)
