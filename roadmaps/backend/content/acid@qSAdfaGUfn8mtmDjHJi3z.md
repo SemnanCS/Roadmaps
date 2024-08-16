@@ -1,8 +1,8 @@
 # ACID
 
-ACID are the four properties of relational database systems that help in making sure that we are able to perform the transactions in a reliable manner. It's an acronym which refers to the presence of four properties: atomicity, consistency, isolation and durability
+ویژگی‌های ACID چهار خاصیت سیستم‌های پایگاه داده‌های رابطه‌ای هستند که به ما کمک می‌کنند تا بتوانیم تراکنش‌ها را به صورت قابل اطمینانی انجام دهیم. این اصطلاح مخففی است که به چهار خاصیت زیر اشاره دارد: اتمیسیته، یکپارچگی، ایزولاسیون و دوام.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is ACID Compliant Database?](https://retool.com/blog/whats-an-acid-compliant-database/)
 - [@article@What is ACID Compliance?: Atomicity, Consistency, Isolation](https://fauna.com/blog/what-is-acid-compliance-atomicity-consistency-isolation)
