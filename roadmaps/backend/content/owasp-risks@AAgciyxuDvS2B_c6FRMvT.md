@@ -1,8 +1,8 @@
 # OWASP Security Risks
 
-OWASP or Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+OWASP یا Open Web Application Security Project یک جامعه آنلاین است که مقالات، روش‌شناسی‌ها، مستندات، ابزارها و فناوری‌های قابل دسترسی رایگان در زمینه امنیت برنامه‌های وب تولید می‌کند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
 - [@opensource@OWASP Application Security Verification Standard](https://github.com/OWASP/ASVS)

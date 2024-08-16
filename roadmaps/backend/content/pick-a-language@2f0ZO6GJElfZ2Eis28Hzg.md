@@ -1,7 +1,7 @@
 # Learn a Language
 
-Even if you’re a beginner the least you would have known is that Web Development is majorly classified into two facets: Frontend Development and Backend Development. And obviously, they both have their respective set of tools and technologies. For instance, when we talk about Frontend Development, there always comes 3 names first and foremost – HTML, CSS, and JavaScript.
+حتی اگر شما یک مبتدی باشید، حداقل می‌دانید که توسعه وب به‌طور کلی به دو جنبه اصلی تقسیم می‌شود: توسعه Frontend و توسعه Backend. و به‌طور واضح، هرکدام از این جنبه‌ها مجموعه‌ای از ابزارها و تکنولوژی‌های مربوط به خود را دارند. به عنوان مثال، هنگامی که در مورد توسعه Frontend صحبت می‌کنیم، همیشه سه نام اولیه و مهم به ذهن می‌آید: HTML، CSS، و JavaScript.
 
-In the same way, when it comes to Backend Web Development – we primarily require a backend (or you can say server-side) programming language to make the website function along with various other tools & technologies such as databases, frameworks, web servers, etc.
+به‌همین ترتیب، وقتی به توسعه Backend وب می‌پردازیم، به‌طور اصلی به یک زبان برنامه‌نویسی Backend (یا به عبارتی زبان سمت سرور) نیاز داریم تا عملکرد وب‌سایت را فراهم کنیم، همراه با ابزارها و تکنولوژی‌های مختلف دیگر مانند پایگاه‌داده‌ها، فریم‌ورک‌ها، وب‌سرورها و غیره.
 
-Pick a language from the given list and make sure to learn its quirks, core details about its runtime e.g. concurrency, memory model etc.
+یک زبان از لیست داده شده را انتخاب کنید و مطمئن شوید که با خصوصیات، جزئیات اصلی در مورد زمان اجرا مانند هم‌زمانی، مدل حافظه و غیره آشنا شوید.

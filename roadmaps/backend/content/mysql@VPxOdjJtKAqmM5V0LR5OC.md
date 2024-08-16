@@ -1,8 +1,8 @@
 # MySQL
 
-MySQL is an incredibly popular open source relational database management system (RDBMS). MySQL can be used as a stand-alone client or in conjunction with other services to provide database connectivity. The **M** in LAMP stack stands for MySQL; that alone should provide an idea of its prevalence.
+MySQL یک سیستم مدیریت پایگاه‌داده رابطه‌ای (RDBMS) منبع باز و بسیار محبوب است. MySQL می‌تواند به‌طور مستقل به‌عنوان یک کلاینت استفاده شود یا به‌همراه سایر خدمات برای ارائه اتصال پایگاه‌داده به‌کار رود. **M** در استک LAMP به MySQL اشاره دارد؛ این موضوع به‌تنهایی می‌تواند نمایانگر گسترش آن باشد.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@official@MySQL website](https://www.mysql.com/)
 - [@article@W3Schools - MySQL tutorial ](https://www.w3schools.com/mySQl/default.asp)

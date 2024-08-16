@@ -1,8 +1,8 @@
 # RabbitMQ
 
-With tens of thousands of users, RabbitMQ is one of the most popular open-source message brokers. RabbitMQ is lightweight and easy to deploy on-premises and in the cloud. It supports multiple messaging protocols. RabbitMQ can be deployed in distributed and federated configurations to meet high-scale, high-availability requirements.
+با ده‌ها هزار کاربر، RabbitMQ یکی از محبوب‌ترین پیام‌رسان‌های متن‌باز است. RabbitMQ سبک و آسان برای پیاده‌سازی به صورت محلی و در فضای ابری است. این ابزار از پروتکل‌های مختلف پیام‌رسانی پشتیبانی می‌کند و می‌تواند در پیکربندی‌های توزیع‌شده و فدرال برای برآورده کردن نیازهای مقیاس بالا و در دسترس بودن بالا پیاده‌سازی شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@official@RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
 - [@video@RabbitMQ Tutorial - Message Queues and Distributed Systems](https://www.youtube.com/watch?v=nFxjaVmFj5E)

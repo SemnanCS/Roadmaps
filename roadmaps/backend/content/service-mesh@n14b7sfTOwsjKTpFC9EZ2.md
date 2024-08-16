@@ -1,14 +1,14 @@
 # Service Mesh
 
-A service mesh is an architectural pattern for enhancing communication, security, and management between microservices in a distributed network. It employs a collection of intelligent proxies to manage service-to-service communication, ensuring high availability, efficient load balancing, and robust service discovery. Additionally, a service mesh offers advanced features like observability for monitoring network behavior, and various traffic management capabilities.
+**Service Mesh** یک الگوی معماری برای بهبود ارتباطات، امنیت و مدیریت بین میکروسرویس‌ها در یک شبکه توزیع‌شده است. این الگو از مجموعه‌ای از پراکسی‌های هوشمند برای مدیریت ارتباطات سرویس به سرویس استفاده می‌کند و تضمین می‌کند که دسترسی بالا، متعادل‌سازی بار بهینه و کشف سرویس قوی فراهم شود. علاوه بر این، یک سرویس مش ویژگی‌های پیشرفته‌ای مانند قابلیت‌های مشاهده‌پذیری برای نظارت بر رفتار شبکه و مدیریت ترافیک مختلف را ارائه می‌دهد.
 
-In a typical service mesh setup, each microservice is paired with a proxy. This proxy, often deployed using a sidecar pattern, is responsible not only for handling communication to and from its associated microservice but also for implementing various network functionalities. These functionalities include load balancing, intelligent routing, and ensuring secure data transfer.
+در یک تنظیمات معمولی سرویس مش، هر میکروسرویس با یک پراکسی جفت می‌شود. این پراکسی، که معمولاً با استفاده از الگوی Sidecar مستقر می‌شود، مسئولیت‌های مختلفی را از جمله مدیریت ارتباط به و از میکروسرویس مربوطه و پیاده‌سازی قابلیت‌های مختلف شبکه را بر عهده دارد. این قابلیت‌ها شامل متعادل‌سازی بار، مسیریابی هوشمند و اطمینان از انتقال داده‌های امن است.
 
-The sidecar pattern, integral to service meshes, involves deploying the proxy as a sidecar container alongside the main microservice container, especially in Kubernetes environments. This design allows the service mesh to function independently from the microservices themselves, simplifying management and updates.
+الگوی Sidecar، که جزو اجزای اساسی سرویس مش‌ها است، شامل استقرار پراکسی به عنوان یک کانتینر Sidecar در کنار کانتینر اصلی میکروسرویس، به‌ویژه در محیط‌های Kubernetes، می‌شود. این طراحی به سرویس مش این امکان را می‌دهد که به طور مستقل از میکروسرویس‌ها عمل کند و مدیریت و به‌روزرسانی‌ها را ساده‌تر کند.
 
-Popular service mesh implementations include Istio and Linkerd, which offer robust solutions tailored to modern, cloud-based application architectures.
+پیاده‌سازی‌های محبوب سرویس مش شامل Istio و Linkerd هستند که راه‌حل‌های قوی‌ای را برای معماری‌های مدرن ابری ارائه می‌دهند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is a Service Mesh?](https://www.nginx.com/blog/what-is-a-service-mesh/)
 - [@video@Microservices pain points and how service mesh can help solve those issues](https://www.youtube.com/watch?v=QiXK0B9FhO0)

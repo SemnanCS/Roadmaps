@@ -1,12 +1,12 @@
 # Observability
 
-In software development, observability is the measure of how well we can understand a system from the work it does, and how to make it better.
+در توسعه نرم‌افزار، قابلیت مشاهده (Observability) به میزان توانایی ما در درک یک سیستم از طریق کارهایی که انجام می‌دهد و نحوه بهبود آن اشاره دارد.
 
-So what makes a system to be "observable"? It is its ability of producing and collecting metrics, logs and traces in order for us to understand what happens under the hood and identify issues and bottlenecks faster.
+چه چیزی یک سیستم را "قابل مشاهده" می‌سازد؟ این توانایی آن برای تولید و جمع‌آوری معیارها، لاگ‌ها و ردپاها است تا ما بتوانیم درک بهتری از آنچه در درون سیستم اتفاق می‌افتد داشته باشیم و مشکلات و گلوگاه‌ها را سریع‌تر شناسایی کنیم.
 
-You can of course implement all those features by yourself, but there are a lot of softwares out there that can help you with it like Datadog, Sentry and CloudWatch.
+البته شما می‌توانید تمام این ویژگی‌ها را به طور خودتان پیاده‌سازی کنید، اما نرم‌افزارهای زیادی وجود دارند که می‌توانند به شما در این زمینه کمک کنند، مانند Datadog، Sentry و CloudWatch.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@DataDog Docs](https://docs.datadoghq.com/)
 - [@article@AWS CloudWatch Docs](https://aws.amazon.com/cloudwatch/getting-started/)

@@ -1,8 +1,8 @@
 # PostgreSQL
 
-PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
+PostgreSQL، که به‌طور غیررسمی به آن Postgres نیز گفته می‌شود، یک سیستم مدیریت پایگاه داده رابطه‌ای رایگان و متن‌باز است که بر قابلیت گسترش و تطابق با SQL تأکید دارد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@roadmap@Visit Dedicated PostgreSQL DBA Roadmap](/postgresql-dba)
 - [@official@Official Website](https://www.postgresql.org/)

@@ -1,8 +1,8 @@
 # Unit Testing
 
-Unit testing is where individual **units** (modules, functions/methods, routines, etc.) of software are tested to ensure their correctness. This low-level testing ensures smaller components are functionally sound while taking the burden off of higher-level tests. Generally, a developer writes these tests during the development process and they are run as automated tests.
+تست واحد (Unit Testing) به آزمایش **واحدها** (ماژول‌ها، توابع/متدها، روتین‌ها و غیره) نرم‌افزار به منظور اطمینان از صحت آنها اطلاق می‌شود. این تست‌های سطح پایین اطمینان می‌دهند که اجزای کوچکتر به طور عملکردی صحیح هستند و بار تست‌های سطح بالاتر را کاهش می‌دهند. به طور معمول، یک توسعه‌دهنده این تست‌ها را در طول فرآیند توسعه می‌نویسد و آنها به صورت تست‌های خودکار اجرا می‌شوند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
 - [@video@What is Unit Testing?](https://youtu.be/3kzHmaeozDI)

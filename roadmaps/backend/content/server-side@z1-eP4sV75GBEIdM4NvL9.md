@@ -1,13 +1,13 @@
-# Server side
+# Server Side
 
-Server-side caching temporarily stores web files and data on the origin server to reuse later.
+**Server-side caching** به طور موقت فایل‌ها و داده‌های وب را بر روی سرور اصلی ذخیره می‌کند تا بتواند دوباره از آن‌ها استفاده کند.
 
-When the user first requests for the webpage, the website goes under the normal process of retrieving data from the server and generates or constructs the webpage of the website. After the request has happened and the response has been sent back, the server copies the webpage and stores it as a cache.
+زمانی که کاربر برای اولین بار درخواست وب‌سایت را می‌دهد، وب‌سایت تحت فرآیند معمولی برای بازیابی داده‌ها از سرور قرار می‌گیرد و صفحه وب سایت را تولید یا ایجاد می‌کند. پس از ارسال درخواست و دریافت پاسخ، سرور صفحه وب را کپی کرده و به عنوان کش ذخیره می‌کند.
 
-Next time the user revisits the website, it loads the already saved or cached copy of the webpage, thus making it faster.
+در مراجعه بعدی کاربر به وب‌سایت، نسخه ذخیره شده یا کش‌شده صفحه وب بارگذاری می‌شود و این باعث می‌شود تا سرعت بارگذاری افزایش یابد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
-- [@article@Server-side caching ](https://www.starwindsoftware.com/resource-library/server-side-caching/)
+- [@article@Server-side caching](https://www.starwindsoftware.com/resource-library/server-side-caching/)
 - [@article@Server-side caching and Client-side caching](https://www.codingninjas.com/codestudio/library/server-side-caching-and-client-side-caching)
 - [@feed@Explore top posts about Web Development](https://app.daily.dev/tags/webdev?ref=roadmapsh)

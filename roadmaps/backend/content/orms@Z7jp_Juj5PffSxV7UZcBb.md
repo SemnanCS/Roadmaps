@@ -1,8 +1,8 @@
 # ORMs
 
-Object-Relational Mapping (ORM) is a technique that lets you query and manipulate data from a database using an object-oriented paradigm. When talking about ORM, most people are referring to a library that implements the Object-Relational Mapping technique, hence the phrase "an ORM".
+Object-Relational Mapping (ORM) تکنیکی است که به شما این امکان را می‌دهد تا داده‌ها را از پایگاه داده با استفاده از الگوی شی‌گرا کوئری و دستکاری کنید. وقتی صحبت از ORM می‌شود، اکثر مردم به کتابخانه‌ای اشاره می‌کنند که تکنیک Object-Relational Mapping را پیاده‌سازی می‌کند، از این رو عبارت "یک ORM" استفاده می‌شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@Object Relational Mapping - Wikipedia](https://en.wikipedia.org/wiki/Object–relational_mapping)
 - [@article@What is an ORM and how should I use it?](https://stackoverflow.com/questions/1279613/what-is-an-orm-how-does-it-work-and-how-should-i-use-one)

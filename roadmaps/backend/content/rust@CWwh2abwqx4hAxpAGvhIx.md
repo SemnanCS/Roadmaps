@@ -1,8 +1,8 @@
 # Rust
 
-Rust is a modern systems programming language focusing on safety, speed, and concurrency. It accomplishes these goals by being memory safe without using garbage collection.
+Rust یک زبان برنامه‌نویسی مدرن سیستم‌های کامپیوتری است که بر روی ایمنی، سرعت و همزمانی تمرکز دارد. این اهداف را با استفاده از ایمنی حافظه بدون نیاز به جمع‌آوری زباله در مموری (garbage collection) به دست می‌آورد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@The Rust Programming Language - online book](https://doc.rust-lang.org/book/)
 - [@article@Rust by Example - collection of runnable examples](https://doc.rust-lang.org/stable/rust-by-example/index.html)

@@ -1,8 +1,8 @@
 # PHP
 
-PHP is a general purpose scripting language often used for making dynamic and interactive Web pages. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group and supported by PHP Foundation. PHP supports procedural and object-oriented styles of programming with some elements of functional programming as well.
+PHP یک زبان اسکریپت‌نویسی عمومی است که اغلب برای ساخت صفحات وب پویا و تعاملی استفاده می‌شود. این زبان در سال ۱۹۹۴ توسط برنامه‌نویس دانمارکی-کانادایی، راسموس لردورف، ایجاد شد. پیاده‌سازی مرجع PHP اکنون توسط گروه PHP تولید و توسط بنیاد PHP پشتیبانی می‌شود. PHP از سبک‌های برنامه‌نویسی رویه‌ای و شی‌گرا پشتیبانی می‌کند و برخی از عناصر برنامه‌نویسی تابعی را نیز شامل می‌شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@official@PHP Website](https://php.net/)
 - [@article@Learn PHP - W3Schools](https://www.w3schools.com/php/)

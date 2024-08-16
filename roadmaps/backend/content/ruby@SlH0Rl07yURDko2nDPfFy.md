@@ -1,8 +1,8 @@
 # Ruby
 
-Ruby is a high-level, interpreted programming language that blends Perl, Smalltalk, Eiffel, Ada, and Lisp. Ruby focuses on simplicity and productivity along with a syntax that reads and writes naturally. Ruby supports procedural, object-oriented and functional programming and is dynamically typed.
+Ruby یک زبان برنامه‌نویسی سطح بالا و تفسیر شده است که از زبان‌های Perl، Smalltalk، Eiffel، Ada و Lisp ترکیب شده است. Ruby بر سادگی و بهره‌وری تمرکز دارد و دارای سینتکسی است که به طور طبیعی قابل خواندن و نوشتن است. Ruby از برنامه‌نویسی رویه‌ای، شی‌گرا و تابعی پشتیبانی می‌کند و به صورت دینامیک تایپ شده است.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Ruby Website](https://www.ruby-lang.org/en/)
 - [@article@Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)

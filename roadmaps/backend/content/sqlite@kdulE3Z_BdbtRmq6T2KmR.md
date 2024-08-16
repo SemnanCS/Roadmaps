@@ -1,6 +1,6 @@
 # SQLite
 
-SQLite is a relational database management system that is embedded into the end program. It is self-contained, serverless, zero-configuration, transactional SQL database engine.
+SQLite یک سیستم مدیریت پایگاه داده رابطه‌ای است که در برنامه نهایی جاسازی شده است. این پایگاه داده SQL به صورت خودکفا، بدون سرور، بدون نیاز به پیکربندی و تراکنشی عمل می‌کند.
 
 Visit the following resources to learn more:
 

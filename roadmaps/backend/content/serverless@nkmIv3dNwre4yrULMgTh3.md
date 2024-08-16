@@ -1,10 +1,10 @@
 # Serverless
 
-Serverless is an architecture in which a developer builds and runs applications without provisioning or managing servers. With cloud computing/serverless, servers exist but are managed by the cloud provider. Resources are used as they are needed, on demand and often using auto scaling.
+**Serverless** یک معماری است که در آن توسعه‌دهنده بدون نیاز به تأمین یا مدیریت سرورها، برنامه‌ها را می‌سازد و اجرا می‌کند. با محاسبات ابری/بدون سرور، سرورها وجود دارند اما توسط ارائه‌دهنده ابری مدیریت می‌شوند. منابع به صورت مورد نیاز و بر اساس تقاضا استفاده می‌شوند و اغلب از مقیاس‌پذیری خودکار استفاده می‌کنند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Serverless](https://www.ibm.com/cloud/learn/serverless)
 - [@article@AWS Services](https://aws.amazon.com/serverless/)
-- [@video@Serverless Computing in 100 Seconds](https://www.youtube.com/watch?v=W_VV2Fx32_Y\&ab_channel=Fireship)
+- [@video@Serverless Computing in 100 Seconds](https://www.youtube.com/watch?v=W_VV2Fx32_Y&ab_channel=Fireship)
 - [@feed@Explore top posts about Serverless](https://app.daily.dev/tags/serverless?ref=roadmapsh)

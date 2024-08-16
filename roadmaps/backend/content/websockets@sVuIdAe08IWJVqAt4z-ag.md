@@ -1,8 +1,8 @@
 # Web sockets
 
-Web sockets are defined as a two-way communication between the servers and the clients, which mean both the parties, communicate and exchange data at the same time. This protocol defines a full duplex communication from the ground up. Web sockets take a step forward in bringing desktop rich functionalities to the web browsers.
+وب‌سوکت‌ها به عنوان یک ارتباط دوطرفه بین سرورها و کلاینت‌ها تعریف می‌شوند، به این معنی که هر دو طرف به طور همزمان با یکدیگر ارتباط و تبادل داده انجام می‌دهند. این پروتکل ارتباط دوقلو را از پایه تعریف می‌کند. وب‌سوکت‌ها گام پیشرفته‌ای در ارائه قابلیت‌های غنی دسکتاپ به مرورگرهای وب هستند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Introduction to WebSockets](https://www.tutorialspoint.com/websockets/index.htm)
 - [@video@A Beginners Guide to WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4)

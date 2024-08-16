@@ -1,10 +1,10 @@
-# Open api spec
+# Open API Spec
 
-The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection. When properly defined, a consumer can understand and interact with the remote service with a minimal amount of implementation logic.
+مشخصات OpenAPI (OAS) استانداردی برای تعریف رابطی زبان‌بی‌تفاوت به APIs های RESTful است که به انسان‌ها و کامپیوترها این امکان را می‌دهد که قابلیت‌های سرویس را بدون نیاز به دسترسی به کد منبع، مستندات، یا بررسی ترافیک شبکه کشف و درک کنند. هنگامی که به درستی تعریف شده باشد، یک مصرف‌کننده می‌تواند با حداقل منطق پیاده‌سازی، سرویس از راه دور را درک و با آن تعامل داشته باشد.
 
-An OpenAPI definition can then be used by documentation generation tools to display the API, code generation tools to generate servers and clients in various programming languages, testing tools, and many other use cases.
+تعریف OpenAPI می‌تواند توسط ابزارهای تولید مستندات برای نمایش API، ابزارهای تولید کد برای تولید سرورها و کلاینت‌ها در زبان‌های برنامه‌نویسی مختلف، ابزارهای تست، و بسیاری از موارد استفاده دیگر استفاده شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@OpenAPI Specification Website](https://swagger.io/specification/)
 - [@article@Open API Live Editor](https://swagger.io/tools/swagger-editor/)

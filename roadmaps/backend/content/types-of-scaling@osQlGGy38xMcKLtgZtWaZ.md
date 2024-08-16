@@ -1,8 +1,8 @@
 # Horizontal/Vertical Scaling
 
-Horizontal scaling is a change in the **number** of a resource. For example, increasing the number of virtual machines processing messages in a queue. Vertical scaling is a change in the **size/power** of a resource. For example, increasing the memory or disk space available to a machine. Scaling can be applied to databases, cloud resources, and other areas of computing.
+مقیاس‌پذیری افقی تغییر در **تعداد** منابع است. به عنوان مثال، افزایش تعداد ماشین‌های مجازی که پیام‌ها را در صف پردازش می‌کنند. مقیاس‌پذیری عمودی تغییر در **اندازه/قدرت** منبع است. به عنوان مثال، افزایش حافظه یا فضای دیسک در دسترس برای یک ماشین. مقیاس‌پذیری می‌تواند به پایگاه‌های داده، منابع ابری، و سایر حوزه‌های محاسباتی اعمال شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Horizontal vs Vertical Scaling](https://touchstonesecurity.com/horizontal-vs-vertical-scaling-what-you-need-to-know/)
 - [@video@System Design Basics: Horizontal vs. Vertical Scaling](https://youtu.be/xpDnVSmNFX0)

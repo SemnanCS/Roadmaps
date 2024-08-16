@@ -1,14 +1,14 @@
 # Token authentication
 
-Token-based authentication is a protocol which allows users to verify their identity, and in return receive a unique access token. During the life of the token, users then access the website or app that the token has been issued for, rather than having to re-enter credentials each time they go back to the same webpage, app, or any resource protected with that same token.
+Token-based authentication یک پروتکل است که به کاربران اجازه می‌دهد هویت خود را تأیید کنند و در عوض یک توکن دسترسی منحصر به فرد دریافت کنند. در طول مدت اعتبار توکن، کاربران می‌توانند به وب‌سایت یا اپلیکیشنی که توکن برای آن صادر شده است دسترسی داشته باشند، بدون اینکه هر بار نیاز به وارد کردن مجدد اطلاعات احراز هویت داشته باشند.
 
-Auth tokens work like a stamped ticket. The user retains access as long as the token remains valid. Once the user logs out or quits an app, the token is invalidated.
+توکن‌های احراز هویت مشابه بلیط‌های مهرشده عمل می‌کنند. کاربر تا زمانی که توکن معتبر باشد به دسترسی ادامه می‌دهد. زمانی که کاربر از سیستم خارج شود یا اپلیکیشن را ترک کند، توکن غیر معتبر می‌شود.
 
-Token-based authentication is different from traditional password-based or server-based authentication techniques. Tokens offer a second layer of security, and administrators have detailed control over each action and transaction.
+احراز هویت مبتنی بر توکن با تکنیک‌های سنتی احراز هویت بر اساس رمز عبور یا سرور متفاوت است. توکن‌ها یک لایه امنیتی دوم را ارائه می‌دهند و مدیران کنترل دقیقی بر روی هر عمل و تراکنش دارند.
 
-But using tokens requires a bit of coding know-how. Most developers pick up the techniques quickly, but there is a learning curve.
+با این حال، استفاده از توکن‌ها نیاز به مقداری دانش برنامه‌نویسی دارد. بیشتر توسعه‌دهندگان به سرعت تکنیک‌ها را یاد می‌گیرند، اما یک منحنی یادگیری وجود دارد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What Is Token-Based Authentication?](https://www.okta.com/identity-101/what-is-token-based-authentication/)
 - [@feed@Explore top posts about Authentication](https://app.daily.dev/tags/authentication?ref=roadmapsh)

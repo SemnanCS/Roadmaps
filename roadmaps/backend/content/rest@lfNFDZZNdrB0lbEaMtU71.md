@@ -1,8 +1,8 @@
 # REST
 
-REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
+REST، یا REpresentational State Transfer، یک سبک معماری برای ارائه استانداردها بین سیستم‌های کامپیوتری در وب است که ارتباط بین سیستم‌ها را آسان‌تر می‌کند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@REST Fundamental](https://dev.to/cassiocappellari/fundamentals-of-rest-api-2nag)
 - [@article@What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)

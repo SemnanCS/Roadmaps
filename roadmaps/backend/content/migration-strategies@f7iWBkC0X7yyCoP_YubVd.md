@@ -1,7 +1,7 @@
 # Migration Strategies
 
-Learn how to run database migrations effectively. Especially zero downtime multi-phase schema migrations. Rather than make all changes at once, do smaller incremental changes to allow old code, and new code to work with the database at the same time, before removing old code, and finally removing the parts of the database schema which is no longer used.
+یاد بگیرید که چگونه به طور مؤثر مهاجرت‌های پایگاه داده را اجرا کنید. به ویژه مهاجرت‌های اسکیما چندمرحله‌ای بدون وقفه. به جای اعمال تمام تغییرات به طور همزمان، تغییرات کوچکتر و تدریجی انجام دهید تا کد قدیمی و کد جدید بتوانند به طور همزمان با پایگاه داده کار کنند، قبل از حذف کد قدیمی و در نهایت حذف بخش‌های پایگاه داده که دیگر استفاده نمی‌شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@Databases as a Challenge for Continuous Delivery](https://phauer.com/2015/databases-challenge-continuous-delivery/)

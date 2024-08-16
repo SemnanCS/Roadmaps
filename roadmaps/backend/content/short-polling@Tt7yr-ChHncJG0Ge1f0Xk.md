@@ -1,3 +1,3 @@
 # Short Polling
 
-Short polling is a technique where the client repeatedly polls the server for new data. This is the most common approach to polling. It's simple to implement and understand, but it's not the most efficient way of doing things.
+پولینگ کوتاه تکنیکی است که در آن کلاینت به طور مکرر از سرور درخواست داده‌های جدید می‌کند. این روش، رایج‌ترین روش پولینگ است. پیاده‌سازی و درک آن ساده است، اما این روش کارآمدترین راه برای انجام کارها نیست.

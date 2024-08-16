@@ -1,6 +1,6 @@
 # SSL/TLS
 
-Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are cryptographic protocols used to provide security in internet communications. These protocols encrypt the data that is transmitted over the web, so anyone who tries to intercept packets will not be able to interpret the data. One difference that is important to know is that SSL is now deprecated due to security flaws, and most modern web browsers no longer support it. But TLS is still secure and widely supported, so preferably use TLS.
+**Secure Sockets Layer (SSL)** و **Transport Layer Security (TLS)** پروتکل‌های رمزنگاری هستند که برای تأمین امنیت در ارتباطات اینترنتی استفاده می‌شوند. این پروتکل‌ها داده‌های منتقل‌شده از طریق وب را رمزنگاری می‌کنند تا هر کسی که تلاش کند بسته‌ها را رهگیری کند نتواند داده‌ها را تفسیر کند. یک تفاوت مهم این است که SSL اکنون به دلیل نقص‌های امنیتی منسوخ شده است و اکثر مرورگرهای وب مدرن دیگر از آن پشتیبانی نمی‌کنند. اما TLS هنوز امن و به‌طور گسترده‌ای پشتیبانی می‌شود، بنابراین ترجیحاً از TLS استفاده کنید.
 
 Visit the following resources to learn more:
 

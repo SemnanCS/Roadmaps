@@ -1,33 +1,33 @@
 ## Security Assertion Markup Language (SAML)
 
-**SAML** stands for Security Assertion Markup Language. It is an XML-based standard for exchanging authentication and authorization data between parties, particularly between an identity provider (IdP) and a service provider (SP). In a SAML-based system, a user requests access to a protected resource. The service provider asks the identity provider to authenticate the user and assert whether they are granted access to the resource.
+**SAML** مخفف Security Assertion Markup Language است. این یک استاندارد مبتنی بر XML برای تبادل داده‌های احراز هویت و مجوز بین طرف‌ها، به ویژه بین یک ارائه‌دهنده هویت (IdP) و یک ارائه‌دهنده خدمت (SP) است. در یک سیستم مبتنی بر SAML، کاربر درخواست دسترسی به یک منبع محافظت‌شده را می‌کند. ارائه‌دهنده خدمت از ارائه‌دهنده هویت می‌خواهد که کاربر را احراز هویت کند و تأیید کند که آیا به منبع دسترسی داده شده است یا خیر.
 
-### Benefits of SAML
+### مزایای SAML
 
-Some advantages of using SAML include:
+برخی از مزایای استفاده از SAML شامل موارد زیر است:
 
-- Single Sign-On (SSO): Users can log in once at the IdP and access multiple service providers without needing to authenticate again.
-- Improved security: Passwords and user credentials are not required to be stored and managed by the service provider, reducing the potential vectors for attack.
-- Increased efficiency: As users no longer need to maintain multiple sets of credentials, managing access becomes easier for both the user and the system administrators.
-- Interoperability: SAML enables a wide range of applications to work together, regardless of the underlying technology or platform.
+- **ورود تک‌مرحله‌ای (SSO)**: کاربران می‌توانند یک بار در IdP وارد شوند و به چندین ارائه‌دهنده خدمت بدون نیاز به احراز هویت مجدد دسترسی پیدا کنند.
+- **افزایش امنیت**: نیاز به ذخیره و مدیریت رمزهای عبور و اطلاعات کاربری توسط ارائه‌دهنده خدمت کاهش می‌یابد و احتمال آسیب‌پذیری‌ها کاهش می‌یابد.
+- **افزایش کارایی**: از آنجایی که کاربران نیازی به حفظ مجموعه‌های مختلف اعتبارنامه‌ها ندارند، مدیریت دسترسی برای کاربران و مدیران سیستم آسان‌تر می‌شود.
+- **هم‌کاری‌پذیری**: SAML امکان تعامل بین مجموعه وسیعی از برنامه‌ها را فراهم می‌آورد، صرف نظر از فناوری یا پلتفرم زیرساختی.
 
-### SAML Components
+### اجزای SAML
 
-Three main components are involved in the SAML architecture:
+سه مؤلفه اصلی در معماری SAML دخیل هستند:
 
-1. **Identity Provider (IdP)**: The entity that manages users' identities and authenticates them by providing security tokens, also called assertions.
-2. **Service Provider (SP)**: The entity that provides a service (such as a web application or API) and relies on the identity provider to authenticate users and grant/deny access to the resources.
-3. **User/Principal**: The end user seeking access to the service provided by the service provider.
+1. **ارائه‌دهنده هویت (IdP)**: نهادی که هویت‌های کاربران را مدیریت کرده و آنها را با ارائه توکن‌های امنیتی، که به آن‌ها "بیانیه‌ها" نیز گفته می‌شود، احراز هویت می‌کند.
+2. **ارائه‌دهنده خدمت (SP)**: نهادی که یک خدمت (مانند یک برنامه وب یا API) را ارائه می‌دهد و به ارائه‌دهنده هویت برای احراز هویت کاربران و اعطای/عدم اعطای دسترسی به منابع وابسته است.
+3. **کاربر/اصل**: کاربر نهایی که به دنبال دسترسی به خدمت ارائه‌شده توسط ارائه‌دهنده خدمت است.
 
-### SAML Workflow
+### روند کار SAML
 
-The SAML authentication process consists of the following steps:
+فرآیند احراز هویت SAML شامل مراحل زیر است:
 
-1. The user requests access to a protected resource from the service provider.
-2. If the user is not already authenticated, the service provider generates and sends a SAML authentication request to the identity provider.
-3. The identity provider authenticates the user (using, e.g., a username and password, multi-factor authentication, or another method).
-4. The identity provider constructs a SAML response, which includes details about the user and asserts whether the user is authorized to access the requested resource.
-5. The SAML response is sent back to the service provider, typically via the user's web browser or API client.
-6. The service provider processes the SAML response, extracts the necessary information, and grants or denies access to the user based on the identity provider's assertion.
+1. کاربر درخواست دسترسی به منبع محافظت‌شده‌ای از ارائه‌دهنده خدمت می‌کند.
+2. اگر کاربر از قبل احراز هویت نشده باشد، ارائه‌دهنده خدمت یک درخواست احراز هویت SAML به ارائه‌دهنده هویت ارسال می‌کند.
+3. ارائه‌دهنده هویت کاربر را احراز هویت می‌کند (با استفاده از، مثلاً، نام کاربری و رمز عبور، احراز هویت چندعاملی، یا روش دیگری).
+4. ارائه‌دهنده هویت یک پاسخ SAML می‌سازد که شامل جزئیات مربوط به کاربر است و تأیید می‌کند که آیا کاربر مجاز به دسترسی به منبع درخواست‌شده است یا خیر.
+5. پاسخ SAML به ارائه‌دهنده خدمت ارسال می‌شود، معمولاً از طریق مرورگر وب یا کلاینت API کاربر.
+6. ارائه‌دهنده خدمت پاسخ SAML را پردازش کرده، اطلاعات لازم را استخراج می‌کند و دسترسی به کاربر را بر اساس تأیید ارائه‌دهنده هویت اعطا یا رد می‌کند.
 
-With SAML, you can streamline user authentication and authorization across various applications and systems, providing a better user experience and improving your overall backend security.
+با استفاده از SAML، می‌توانید فرآیند احراز هویت و مجوز کاربران را در برنامه‌ها و سیستم‌های مختلف ساده‌تر کنید، تجربه کاربری بهتری ارائه دهید و امنیت کلی بک‌اند خود را بهبود بخشید.

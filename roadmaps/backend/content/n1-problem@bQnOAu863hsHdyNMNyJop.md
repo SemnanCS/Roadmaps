@@ -1,8 +1,8 @@
 # N plus one problem
 
-The N+1 query problem happens when your code executes N additional query statements to fetch the same data that could have been retrieved when executing the primary query.
+مشکل N+1 زمانی رخ می‌دهد که کد شما N پرس‌و‌جو اضافی برای دریافت همان داده‌ها اجرا می‌کند که می‌توانست در زمان اجرای پرس‌و‌جوی اصلی بازیابی شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@In Detail Explanation of N+1 Problem](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89)
 - [@article@What is the N+1 Problem](https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it)

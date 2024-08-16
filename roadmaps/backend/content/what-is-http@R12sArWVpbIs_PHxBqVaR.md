@@ -1,8 +1,8 @@
 # What is HTTP?
 
-HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. It defines how the content is requested and transmitted across the internet.
+HTTP یک پروتکل ارتباطی مبتنی بر `TCP/IP` است که نحوه ارتباط بین کلاینت و سرور را استاندارد می‌کند. این پروتکل تعریف می‌کند که محتوا چگونه درخواست و در اینترنت منتقل می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
 - [@article@What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)

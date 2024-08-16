@@ -1,8 +1,8 @@
 # Python
 
-Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.
+Python یک زبان برنامه‌نویسی شناخته‌شده است که هم به صورت strongly typed و هم به صورت dynamically typed عمل می‌کند. به عنوان یک زبان تفسیر شده، کد بلافاصله پس از نوشتن اجرا می‌شود و نحو Python اجازه می‌دهد تا کد را به روش‌های برنامه‌نویسی تابعی، رویه‌ای یا شیءگرا بنویسید.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@roadmap@Visit Dedicated Python Roadmap](/python)
 - [@official@Python Website](https://www.python.org/)

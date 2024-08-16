@@ -1,9 +1,8 @@
 # OpenID
 
-OpenID is a protocol that utilizes the authorization and authentication mechanisms of OAuth 2.0 and is now widely adopted by many identity providers on the Internet.
-It solves the problem of needing to share user's personal info between many different web services(e.g. online shops, discussion forums etc.)
+OpenID یک پروتکل است که از مکانیزم‌های احراز هویت و مجوز OAuth 2.0 استفاده می‌کند و اکنون به‌طور گسترده‌ای توسط بسیاری از تأمین‌کنندگان هویت در اینترنت پذیرفته شده است. این پروتکل مشکل نیاز به اشتراک‌گذاری اطلاعات شخصی کاربران بین خدمات وب مختلف (مانند فروشگاه‌های آنلاین، انجمن‌های گفت‌وگو و غیره) را حل می‌کند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@official@Official Website](https://openid.net/)
 - [@official@What is OpenID](https://openid.net/connect/)

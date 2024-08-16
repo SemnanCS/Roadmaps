@@ -1,8 +1,8 @@
 # Version Control Systems
 
-Version control/source control systems allow developers to track and control changes to code over time. These services often include the ability to make atomic revisions to code, branch/fork off of specific points, and to compare versions of code. They are useful in determining the who, what, when, and why code changes were made.
+سیستم‌های کنترل نسخه/کنترل منبع به توسعه‌دهندگان این امکان را می‌دهند که تغییرات کد را در طول زمان پیگیری و کنترل کنند. این خدمات معمولاً شامل قابلیت‌های ایجاد اصلاحات اتمی بر روی کد، شاخه‌زنی/فورک کردن از نقاط خاص و مقایسه نسخه‌های مختلف کد هستند. آنها برای تعیین اینکه چه کسی، چه چیزی، کی و چرا تغییرات کد اعمال شده‌اند، مفید هستند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Git](https://git-scm.com/)
 - [@article@What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)

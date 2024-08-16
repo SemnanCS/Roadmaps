@@ -1,8 +1,8 @@
 # Microservices
 
-Microservice architecture is a pattern in which highly cohesive, loosely coupled services are separately developed, maintained, and deployed. Each component handles an individual function, and when combined, the application handles an overall business function.
+معماری میکروسرویس‌ها الگوی است که در آن خدمات بسیار همبسته و به‌طور ضعیف به هم متصل، به صورت جداگانه توسعه، نگهداری و مستقر می‌شوند. هر مؤلفه یک عملکرد فردی را مدیریت می‌کند و هنگامی که ترکیب می‌شود، برنامه یک عملکرد کلی تجاری را مدیریت می‌کند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@official@Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
 - [@article@What is Microservices?](https://smartbear.com/solutions/microservices/)

@@ -1,7 +1,7 @@
 # Message Brokers
 
-Message brokers are an inter-application communication technology to help build a common integration mechanism to support cloud-native, microservices-based, serverless, and hybrid cloud architectures. Two of the most famous message brokers are `RabbitMQ` and `Apache Kafka`
+Message brokers تکنولوژی ارتباط بین برنامه‌ها هستند که به ساخت یک مکانیزم یکپارچه کمک می‌کنند تا از معماری‌های ابری بومی، میکروسرویس‌محور، بدون سرور و ابری ترکیبی پشتیبانی کنند. دو تا از معروف‌ترین message brokerها `RabbitMQ` و `Apache Kafka` هستند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منبع زیر مراجعه کنید:
 
 - [@video@Introduction to Message Brokers](https://www.youtube.com/watch?v=57Qr9tk6Uxc)

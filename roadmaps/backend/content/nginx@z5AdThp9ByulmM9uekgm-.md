@@ -1,8 +1,8 @@
 # Nginx
 
-NGINX is a powerful web server and uses a non-threaded, event-driven architecture that enables it to outperform Apache if configured correctly. It can also do other important things, such as load balancing, HTTP caching, or be used as a reverse proxy.
+NGINX یک وب سرور قدرتمند است و از معماری غیر-رشته‌ای و مبتنی بر رویداد استفاده می‌کند که به آن این امکان را می‌دهد که در صورت پیکربندی صحیح، از Apache پیشی بگیرد. همچنین می‌تواند کارهای دیگری مانند بارگذاری متوازن، کش کردن HTTP یا استفاده به عنوان یک پراکسی معکوس را انجام دهد.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@official@Official Website](https://nginx.org/)
 - [@video@NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)

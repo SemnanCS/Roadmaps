@@ -1,15 +1,15 @@
 # Throttling
 
-Throttling is a design pattern that is used to limit the rate at which a system or component can be used. It is commonly used in cloud computing environments to prevent overuse of resources, such as compute power, network bandwidth, or storage capacity.
+Throttling یک الگوی طراحی است که برای محدود کردن نرخ استفاده از یک سیستم یا مؤلفه به کار می‌رود. این الگو به‌طور معمول در محیط‌های محاسبات ابری برای جلوگیری از استفاده بیش از حد از منابعی مانند قدرت محاسباتی، پهنای باند شبکه یا ظرفیت ذخیره‌سازی استفاده می‌شود.
 
-There are several ways to implement throttling in a cloud environment:
+چندین روش برای پیاده‌سازی throttling در یک محیط ابری وجود دارد:
 
-- Rate limiting: This involves setting a maximum number of requests that can be made to a system or component within a specified time period.
-- Resource allocation: This involves allocating a fixed amount of resources to a system or component, and then limiting the use of those resources if they are exceeded.
-- Token bucket: This involves using a "bucket" of tokens to represent the available resources, and then allowing a certain number of tokens to be "consumed" by each request. When the bucket is empty, additional requests are denied until more tokens become available.
+- محدودیت نرخ (Rate limiting): این روش شامل تعیین حداکثر تعداد درخواست‌هایی است که می‌توان در یک دوره زمانی مشخص به یک سیستم یا مؤلفه ارسال کرد.
+- تخصیص منابع (Resource allocation): این روش شامل تخصیص مقدار معینی از منابع به یک سیستم یا مؤلفه است و سپس محدود کردن استفاده از آن منابع در صورت تجاوز از حد مشخص‌شده.
+- سطل توکن (Token bucket): این روش شامل استفاده از "سطل" توکن‌ها برای نمایندگی منابع موجود است و سپس اجازه دادن به مصرف تعداد معینی از توکن‌ها توسط هر درخواست. وقتی سطل خالی شد، درخواست‌های اضافی رد می‌شوند تا توکن‌های بیشتری در دسترس قرار گیرند.
 
-Throttling is an important aspect of cloud design, as it helps to ensure that resources are used efficiently and that the system remains stable and available. It is often used in conjunction with other design patterns, such as auto-scaling and load balancing, to provide a scalable and resilient cloud environment.
+Throttling یک جنبه مهم از طراحی ابری است، زیرا کمک می‌کند تا منابع به طور کارآمد استفاده شوند و سیستم پایدار و در دسترس باقی بماند. این روش غالباً همراه با الگوهای طراحی دیگر، مانند مقیاس‌پذیری خودکار و توزیع بار، برای فراهم آوردن یک محیط ابری مقیاس‌پذیر و مقاوم استفاده می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Throttling - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/2022-03-31/framework/rel_mitigate_interaction_failure_throttle_requests.html)

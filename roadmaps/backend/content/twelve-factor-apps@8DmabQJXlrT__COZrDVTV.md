@@ -1,24 +1,24 @@
 # Twelve-Factor Apps
 
-The Twelve-Factor App is a methodology for building scalable and maintainable software-as-a-service (SaaS) applications. It is based on a set of best practices that were identified by the authors of the methodology as being essential for building modern, cloud-native applications.
+متدولوژی Twelve-Factor App برای ساخت برنامه‌های مقیاس‌پذیر و قابل نگهداری به عنوان سرویس (SaaS) طراحی شده است. این متدولوژی بر اساس مجموعه‌ای از بهترین شیوه‌ها است که نویسندگان آن به عنوان اصول اساسی برای ساخت برنامه‌های مدرن و بومی ابری شناسایی کرده‌اند.
 
-The Twelve-Factor App methodology consists of the following principles:
+متدولوژی Twelve-Factor App شامل اصول زیر است:
 
-- Codebase: There should be a single codebase for the application, with multiple deployments.
-- Dependencies: The application should explicitly declare and isolate its dependencies.
-- Config: The application should store configuration in the environment.
-- Backing services: The application should treat backing services as attached resources.
-- Build, release, run: The application should be built, released, and run as an isolated unit.
-- Processes: The application should be executed as one or more stateless processes.
-- Port binding: The application should expose its services through port binding.
-- Concurrency: The application should scale out by adding more processes, not by adding threads.
-- Disposability: The application should be designed to start and stop quickly.
-- Dev/prod parity: The development, staging, and production environments should be as similar as possible.
-- Logs: The application should treat logs as event streams.
-- Admin processes: The application should run admin/maintenance tasks as one-off processes.
+- Codebase: باید یک کدبیس واحد برای برنامه وجود داشته باشد، با چندین پیاده‌سازی.
+- Dependencies: برنامه باید به صراحت وابستگی‌های خود را اعلام کرده و ایزوله کند.
+- Config: برنامه باید پیکربندی را در محیط ذخیره کند.
+- Backing services: برنامه باید خدمات پشتیبانی را به عنوان منابع پیوست شده تلقی کند.
+- Build, release, run: برنامه باید به عنوان یک واحد ایزوله ساخته، منتشر و اجرا شود.
+- Processes: برنامه باید به عنوان یک یا چند پردازه بدون حالت اجرا شود.
+- Port binding: برنامه باید خدمات خود را از طریق اتصال به پورت ارائه دهد.
+- Concurrency: برنامه باید با افزودن پردازه‌های بیشتر مقیاس‌پذیر شود، نه با افزودن نخ‌ها.
+- Disposability: برنامه باید به گونه‌ای طراحی شود که به سرعت شروع و متوقف شود.
+- Dev/prod parity: محیط‌های توسعه، staging، و تولید باید تا حد امکان مشابه باشند.
+- Logs: برنامه باید لاگ‌ها را به عنوان جریان‌های رویداد تلقی کند.
+- Admin processes: برنامه باید وظایف مدیریتی/نگهداری را به عنوان پردازه‌های موقت اجرا کند.
 
-The Twelve-Factor App methodology is widely adopted by developers of SaaS applications, and it is seen as a best practice for building cloud-native applications that are scalable, maintainable, and easy to deploy.
+متدولوژی Twelve-Factor App به طور گسترده‌ای توسط توسعه‌دهندگان برنامه‌های SaaS پذیرفته شده و به عنوان بهترین شیوه برای ساخت برنامه‌های بومی ابری که مقیاس‌پذیر، قابل نگهداری و آسان برای پیاده‌سازی هستند، شناخته می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@The Twelve-Factor App](https://12factor.net/)

@@ -1,8 +1,8 @@
 # Hosting
 
-Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.
+وب‌ هاستینگ یک سرویس آنلاین است که به شما این امکان را می‌دهد که فایل‌های وب‌سایت خود را به اینترنت منتشر کنید. بنابراین، هر کسی که به اینترنت دسترسی دارد، به وب‌سایت شما دسترسی خواهد داشت.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@video@What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
 - [@video@Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)

@@ -1,7 +1,7 @@
 # Scrypt
 
-Scrypt (pronounced "ess crypt") is a password hashing function (like bcrypt). It is designed to use a lot of hardware, which makes brute-force attacks more difficult. Scrypt is mainly used as a proof-of-work algorithm for cryptocurrencies.
+Scrypt (که به صورت "ess crypt" تلفظ می‌شود) یک تابع هشینگ رمز عبور (مانند bcrypt) است. این تابع به گونه‌ای طراحی شده است که از منابع سخت‌افزاری زیادی استفاده کند، که انجام حملات جستجوی فراگیر را دشوارتر می‌سازد. Scrypt به طور عمده به عنوان الگوریتم اثبات کار برای ارزهای دیجیتال استفاده می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر، منابع زیر را بررسی کنید:
 
 - [@article@Wikipedia - Scrypt](https://en.wikipedia.org/wiki/Scrypt)

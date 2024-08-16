@@ -1,8 +1,8 @@
 # MD5
 
-MD5 (Message-Digest Algorithm 5) is a hash function that is currently advised not to be used due to its extensive vulnerabilities. It is still used as a checksum to verify data integrity.
+MD5 (Message-Digest Algorithm 5) یک تابع هش است که به دلیل آسیب‌پذیری‌های گسترده‌اش در حال حاضر توصیه می‌شود که استفاده نشود. با این حال، هنوز به عنوان یک چک‌سام برای تأیید یکپارچگی داده‌ها استفاده می‌شود.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@Wikipedia - MD5](https://en.wikipedia.org/wiki/MD5)
 - [@article@What is MD5?](https://www.techtarget.com/searchsecurity/definition/MD5)

@@ -1,12 +1,12 @@
 # Memcached
 
-Memcached (pronounced variously mem-cash-dee or mem-cashed) is a general-purpose distributed memory-caching system. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read. Memcached is free and open-source software, licensed under the Revised BSD license. Memcached runs on Unix-like operating systems (Linux and macOS) and on Microsoft Windows. It depends on the `libevent` library.
+Memcached (با تلفظ‌های مختلف mem-cash-dee یا mem-cashed) یک سیستم کشینگ حافظه توزیع‌شده و چندمنظوره است. معمولاً برای تسریع وب‌سایت‌های پویا و مبتنی بر پایگاه داده استفاده می‌شود، با کش کردن داده‌ها و اشیاء در حافظه RAM به منظور کاهش تعداد دفعاتی که باید منبع داده خارجی (مانند پایگاه داده یا API) خوانده شود. Memcached نرم‌افزار رایگان و متن‌باز است که تحت مجوز Revised BSD منتشر شده است. Memcached بر روی سیستم‌عامل‌های مشابه یونیکس (Linux و macOS) و همچنین بر روی Microsoft Windows اجرا می‌شود. این سیستم به کتابخانه `libevent` وابسته است.
 
-Memcached's APIs provide a very large hash table distributed across multiple machines. When the table is full, subsequent inserts cause older data to be purged in the least recently used (LRU) order. Applications using Memcached typically layer requests and additions into RAM before falling back on a slower backing store, such as a database.
+APIهای Memcached یک جدول هش بسیار بزرگ را که بر روی چندین ماشین توزیع شده است، فراهم می‌کنند. زمانی که جدول پر می‌شود، واردات بعدی باعث می‌شود که داده‌های قدیمی‌تر به ترتیب کمترین استفاده اخیر (LRU) حذف شوند. برنامه‌های کاربردی که از Memcached استفاده می‌کنند معمولاً درخواست‌ها و افزودن‌ها را به حافظه RAM می‌ریزند و سپس به یک منبع پشتیبانی کندتر، مانند پایگاه داده، بازمی‌گردند.
 
-Memcached has no internal mechanism to track misses which may happen. However, some third-party utilities provide this functionality.
+Memcached مکانیزم داخلی برای پیگیری موارد از دست رفته که ممکن است رخ دهد ندارد. با این حال، برخی ابزارهای شخص ثالث این قابلیت را فراهم می‌آورند.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@Memcached, From Wikipedia](https://en.wikipedia.org/wiki/Memcached)
 - [@opensource@Memcached, From Official Github](https://github.com/memcached/memcached#readme)

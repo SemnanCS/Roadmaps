@@ -1,6 +1,6 @@
 # SOA
 
-SOA, or service-oriented architecture, defines a way to make software components reusable via service interfaces. These interfaces utilize common communication standards in such a way that they can be rapidly incorporated into new applications without having to perform deep integration each time.
+SOA یا معماری مبتنی بر سرویس، روشی برای ساخت مؤلفه‌های نرم‌افزاری به صورت قابل استفاده مجدد از طریق رابط‌های سرویس را تعریف می‌کند. این رابط‌ها از استانداردهای ارتباطی مشترک استفاده می‌کنند به طوری که می‌توانند به سرعت به برنامه‌های جدید اضافه شوند بدون نیاز به ادغام عمیق هر بار.
 
 Visit the following resources to learn more:
 

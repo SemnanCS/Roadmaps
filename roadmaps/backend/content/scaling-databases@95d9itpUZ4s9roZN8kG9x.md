@@ -1,8 +1,8 @@
 # Scaling Databases
 
-Scaling databases is the process of adapting them to handle more data and users efficiently. It's achieved by either upgrading existing hardware (vertical scaling) or adding more servers (horizontal scaling). Techniques like sharding and replication are key. This ensures databases continue to be a robust asset as they grow.
+مقیاس‌پذیری پایگاه‌داده‌ها فرآیند سازگار کردن آن‌ها برای مدیریت داده‌ها و کاربران بیشتر به طور مؤثر است. این کار با ارتقاء سخت‌افزار موجود (مقیاس‌پذیری عمودی) یا افزودن سرورهای بیشتر (مقیاس‌پذیری افقی) انجام می‌شود. تکنیک‌هایی مانند شاردینگ و تکرار کلیدی هستند. این اطمینان حاصل می‌کند که پایگاه‌داده‌ها همچنان به عنوان دارایی‌های قوی باقی بمانند زیرا رشد می‌کنند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر، منابع زیر را بررسی کنید:
 
 - [@article@MongoDB: Database Scaling Basics](https://www.mongodb.com/basics/scaling)
 - [@feed@Explore top posts about Backend Development](https://app.daily.dev/tags/backend?ref=roadmapsh)

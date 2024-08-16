@@ -1,7 +1,7 @@
 # Transactions
 
-In short, a database transaction is a sequence of multiple operations performed on a database, and all served as a single logical unit of work — taking place wholly or not at all. In other words, there's never a case where only half of the operations are performed and the results saved.
+به طور خلاصه، یک تراکنش پایگاه داده یک توالی از چندین عملیات است که بر روی پایگاه داده انجام می‌شود و همه به عنوان یک واحد منطقی از کار عمل می‌کنند — به طور کامل یا اصلاً. به عبارت دیگر، هرگز حالتی وجود ندارد که تنها نیمی از عملیات انجام شده و نتایج ذخیره شده باشد.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What are Transactions?](https://fauna.com/blog/database-transaction)

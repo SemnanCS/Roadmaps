@@ -1,12 +1,12 @@
 # Key-Value Databases
 
-A key-value database (KV database) is a type of database that stores data as a collection of key-value pairs. In a KV database, each piece of data is identified by a unique key, and the value is the data associated with that key.
+پایگاه داده کلید-مقدار (KV database) نوعی پایگاه داده است که داده‌ها را به صورت مجموعه‌ای از جفت‌های کلید-مقدار ذخیره می‌کند. در پایگاه داده KV، هر قطعه داده با یک کلید منحصر به فرد شناسایی می‌شود و مقدار، داده‌ای است که به آن کلید مرتبط است.
 
-KV databases are designed for fast and efficient storage and retrieval of data, and they are often used in applications that require high performance and low latency. They are particularly well-suited for storing large amounts of unstructured data, such as log data and user profiles.
+پایگاه داده‌های KV برای ذخیره‌سازی و بازیابی سریع و مؤثر داده‌ها طراحی شده‌اند و معمولاً در برنامه‌هایی که به عملکرد بالا و تأخیر کم نیاز دارند استفاده می‌شوند. آنها به ویژه برای ذخیره حجم زیادی از داده‌های نامرتب، مانند داده‌های لاگ و پروفایل‌های کاربری، مناسب هستند.
 
-Some popular KV databases include Redis, Memcached, and LevelDB. These databases are often used in combination with other types of databases, such as relational databases or document databases, to provide a complete and scalable data storage solution.
+برخی از پایگاه داده‌های KV محبوب شامل Redis، Memcached و LevelDB هستند. این پایگاه داده‌ها معمولاً به همراه دیگر انواع پایگاه داده‌ها، مانند پایگاه داده‌های رابطه‌ای یا پایگاه داده‌های سند، برای ارائه یک راه‌حل کامل و مقیاس‌پذیر ذخیره‌سازی داده‌ها استفاده می‌شوند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Key-Value Databases - Wikipedia](https://en.wikipedia.org/wiki/Key-value_database)
 - [@feed@Explore top posts about Backend Development](https://app.daily.dev/tags/backend?ref=roadmapsh)

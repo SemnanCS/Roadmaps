@@ -1,8 +1,8 @@
 # Repo Hosting Services
 
-When working on a team, you often need a remote place to put your code so others can access it, create their own branches, and create or review pull requests. These services often include issue tracking, code review, and continuous integration features. A few popular choices are GitHub, GitLab, BitBucket, and AWS CodeCommit.
+هنگام کار بر روی یک تیم، معمولاً به یک مکان از راه دور نیاز دارید تا کدهای خود را قرار دهید تا دیگران بتوانند به آن دسترسی داشته باشند، شاخه‌های خود را ایجاد کنند و درخواست‌های کشش (pull requests) ایجاد یا بررسی کنند. این خدمات معمولاً شامل پیگیری مسائل، مرور کد و ویژگی‌های یکپارچه‌سازی مداوم هستند. چند انتخاب محبوب شامل GitHub، GitLab، BitBucket و AWS CodeCommit هستند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@opensource@GitHub](https://github.com/features/)
 - [@article@GitLab](https://about.gitlab.com/)

@@ -1,8 +1,8 @@
 # MS SQL
 
-MS SQL (or Microsoft SQL Server) is the Microsoft developed relational database management system (RDBMS). MS SQL uses the T-SQL (Transact-SQL) query language to interact with the relational databases. There are many different versions and editions available of MS SQL
+MS SQL (یا Microsoft SQL Server) سیستم مدیریت پایگاه‌داده رابطه‌ای (RDBMS) است که توسط مایکروسافت توسعه یافته است. MS SQL از زبان پرس‌و‌جوی T-SQL (Transact-SQL) برای تعامل با پایگاه‌های داده رابطه‌ای استفاده می‌کند. نسخه‌ها و ویرایش‌های مختلفی از MS SQL در دسترس است.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@article@MS SQL website](https://www.microsoft.com/en-ca/sql-server/)
 - [@article@Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)

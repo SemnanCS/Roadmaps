@@ -1,8 +1,8 @@
 # MongoDB
 
-MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL).
+MongoDB یک برنامه پایگاه داده مستند-محور چندسکویی با دسترسی به کد منبع است. این پایگاه داده به عنوان یک پایگاه داده NoSQL طبقه‌بندی می‌شود و از اسناد مشابه JSON با اسکیماهای اختیاری استفاده می‌کند. MongoDB توسط MongoDB Inc. توسعه یافته و تحت مجوز Server Side Public License (SSPL) منتشر شده است.
 
-Visit the following resources to learn more:
+برای کسب اطلاعات بیشتر، به منابع زیر مراجعه کنید:
 
 - [@roadmap@Visit Dedicated MongoDB Roadmap](/mongodb)
 - [@article@MongoDB Website](https://www.mongodb.com/)

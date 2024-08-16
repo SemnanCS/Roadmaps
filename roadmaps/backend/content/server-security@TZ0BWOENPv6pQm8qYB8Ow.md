@@ -1,17 +1,17 @@
 # Server Security
 
-Learn about the security of your server and how to secure it. Here are some of the topics off the top of my head:
+برای یادگیری در مورد امنیت سرور خود و نحوه ایمن‌سازی آن، در اینجا برخی از موضوعات اصلی آورده شده است:
 
-- Use a firewall: One of the most effective ways to secure a server is to use a firewall to block all unnecessary incoming traffic. You can use iptables on Linux systems or a hardware firewall to do this.
-- Close unnecessary ports: Make sure to close any ports that are not needed for your server to function properly. This will reduce the attack surface of your server and make it more difficult for attackers to gain access.
-- Use strong passwords: Use long, complex passwords for all of your accounts, and consider using a password manager to store them securely.
-- Keep your system up to date: Make sure to keep your operating system and software up to date with the latest security patches. This will help to prevent vulnerabilities from being exploited by attackers.
-- Use SSL/TLS for communication: Use Secure Sockets Layer (SSL) or Transport Layer Security (TLS) to encrypt communication between your server and client devices. This will help to protect against man-in-the-middle attacks and other types of cyber threats.
-- Use a intrusion detection system (IDS): An IDS monitors network traffic and alerts you to any suspicious activity, which can help you to identify and respond to potential threats in a timely manner.
-- Enable two-factor authentication: Two-factor authentication adds an extra layer of security to your accounts by requiring a second form of authentication, such as a code sent to your phone, in addition to your password.
+- **استفاده از فایروال**: یکی از مؤثرترین روش‌ها برای ایمن‌سازی سرور، استفاده از فایروال برای مسدود کردن تمام ترافیک ورودی غیرضروری است. می‌توانید از iptables در سیستم‌های لینوکس یا یک فایروال سخت‌افزاری برای این کار استفاده کنید.
+- **بستن پورت‌های غیرضروری**: اطمینان حاصل کنید که هر پورت غیرضروری که برای عملکرد صحیح سرور شما نیاز نیست، بسته شده باشد. این کار سطح حمله سرور شما را کاهش می‌دهد و دسترسی به آن را برای مهاجمان دشوارتر می‌سازد.
+- **استفاده از پسوردهای قوی**: از پسوردهای طولانی و پیچیده برای تمامی حساب‌های کاربری خود استفاده کنید و در نظر داشته باشید که از یک مدیر پسورد برای ذخیره‌سازی امن آن‌ها استفاده کنید.
+- **به‌روزرسانی سیستم**: اطمینان حاصل کنید که سیستم عامل و نرم‌افزارهای خود را با آخرین وصله‌های امنیتی به‌روز نگه‌دارید. این کار به پیشگیری از بهره‌برداری از آسیب‌پذیری‌ها توسط مهاجمان کمک می‌کند.
+- **استفاده از SSL/TLS برای ارتباطات**: از SSL (Secure Sockets Layer) یا TLS (Transport Layer Security) برای رمزگذاری ارتباط بین سرور و دستگاه‌های کلاینت استفاده کنید. این کار به محافظت در برابر حملات مرد میانه و سایر تهدیدات سایبری کمک می‌کند.
+- **استفاده از سیستم تشخیص نفوذ (IDS)**: IDS ترافیک شبکه را نظارت کرده و به شما در مورد فعالیت‌های مشکوک هشدار می‌دهد، که می‌تواند به شناسایی و پاسخ به تهدیدات احتمالی در زمان مناسب کمک کند.
+- **فعال‌سازی احراز هویت دو عاملی**: احراز هویت دو عاملی با نیاز به یک فرم اضافی از احراز هویت، مانند کدی که به تلفن شما ارسال می‌شود، علاوه بر پسورد، به حساب‌های شما لایه امنیتی اضافی اضافه می‌کند.
 
-Also learn about OpenSSL and creating your own PKI as well as managing certs, renewals, and mutual client auth with x509 certs
+همچنین درباره OpenSSL و ایجاد PKI خود، مدیریت گواهینامه‌ها، تمدیدها و احراز هویت مشتریان متقابل با گواهینامه‌های x509 یاد بگیرید.
 
-Learn more from the following resources:
+برای یادگیری بیشتر از منابع زیر استفاده کنید:
 
 - [@article@How to Defend Against Server-Side Request Forgery](https://www.freecodecamp.org/news/defending-against-ssrf-attacks/)

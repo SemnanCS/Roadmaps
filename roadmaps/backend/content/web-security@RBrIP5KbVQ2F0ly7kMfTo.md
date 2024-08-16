@@ -1,8 +1,8 @@
 # Web Security Knowledge
 
-Web security refers to the protective measures taken by the developers to protect the web applications from threats that could affect the business.
+امنیت وب به اقداماتی اشاره دارد که توسط توسعه‌دهندگان برای حفاظت از برنامه‌های وب در برابر تهدیداتی که می‌تواند بر کسب و کار تأثیر بگذارد، انجام می‌شود.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
 - [@article@Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)

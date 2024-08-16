@@ -1,6 +1,6 @@
 # SOAP
 
-Simple Object Access Protocol (SOAP) is a message protocol for exchanging information between systems and applications. When it comes to application programming interfaces (APIs), a SOAP API is developed in a more structured and formalized way. SOAP messages can be carried over a variety of lower-level protocols, including the web-related Hypertext Transfer Protocol (HTTP).
+پروتکل دسترسی به اشیاء ساده (SOAP) یک پروتکل پیام‌رسانی برای تبادل اطلاعات بین سیستم‌ها و برنامه‌ها است. در زمینه رابط‌های برنامه‌نویسی کاربردی (API)، یک API SOAP به شیوه‌ای ساخت‌یافته و رسمی توسعه می‌یابد. پیام‌های SOAP می‌توانند از طریق پروتکل‌های سطح پایین مختلف، از جمله پروتکل انتقال متن‌های ابرمتنی (HTTP) که مرتبط با وب است، منتقل شوند.
 
 Visit the following resources to learn more:
 

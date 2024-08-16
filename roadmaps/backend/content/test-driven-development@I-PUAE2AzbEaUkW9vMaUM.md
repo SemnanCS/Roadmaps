@@ -1,8 +1,8 @@
 # Test Driven Development
 
-Test driven development (TDD) is the process of writing tests for software's requirements which will fail until the software is developed to meet those requirements. Once those tests pass, then the cycle repeats to refactor code or develop another feature/requirement. In theory, this ensures that software is written to meet requirements in the simplest form, and avoids code defects.
+توسعه مبتنی بر تست (TDD) فرآیند نوشتن تست‌ها برای الزامات نرم‌افزار است که تا زمانی که نرم‌افزار برای برآورده کردن آن الزامات توسعه نیابد، شکست خواهد خورد. پس از موفقیت آن تست‌ها، این چرخه تکرار می‌شود تا کد بازنگری شود یا ویژگی/الزامات دیگری توسعه یابد. به طور نظری، این روش تضمین می‌کند که نرم‌افزار به ساده‌ترین شکل ممکن برای برآورده کردن الزامات نوشته شده و از نقص‌های کد جلوگیری می‌کند.
 
-Visit the following resources to learn more:
+برای یادگیری بیشتر به منابع زیر مراجعه کنید:
 
 - [@article@What is Test Driven Development (TDD)?](https://www.guru99.com/test-driven-development.html)
 - [@article@Test-driven development](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
