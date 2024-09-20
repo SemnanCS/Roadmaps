@@ -1,45 +1,45 @@
-# Spectrum of Thinking Interventions
+# طیف مداخلات تفکری
 
-The _Spectrum of Thinking Interventions_ provides a structure to guide your UX design process, helping you identify the types and range of thinking interventions that the user may require. This spectrum encompasses four primary categories: guidance, explanation, exploration, and creation.
+_طیف مداخلات تفکری_ ساختاری را ارائه می‌دهد که به هدایت فرآیند طراحی UX شما کمک می‌کند و به شما این امکان را می‌دهد که انواع و دامنه مداخلات تفکری که کاربر ممکن است به آن‌ها نیاز داشته باشد را شناسایی کنید. این طیف شامل چهار دسته اصلی است: راهنمایی، توضیح، اکتشاف و خلق.
 
-## Guidance
+## راهنمایی
 
-Guidance-based interventions are designed to help users navigate through a digital product or service with minimal effort. They may be aimed at full-fledged beginners, casual users, or experts in their respective domains. Such interventions may include signposts, tooltips, and clearly articulated labels.
+مداخلات مبتنی بر راهنمایی طراحی شده‌اند تا به کاربران کمک کنند تا با حداقل تلاش از یک محصول یا خدمت دیجیتال عبور کنند. این مداخلات ممکن است برای مبتدیان کامل، کاربران عادی یا متخصصان در زمینه‌های مربوطه هدف‌گذاری شده باشند. چنین مداخلاتی ممکن است شامل نشانه‌ها، ابزارهای کمکی و برچسب‌های روشن باشد.
 
-_Examples:_
+_نمونه‌ها:_
 
-- Visual cues (e.g., icons, colors)
-- Signposting (e.g., breadcrumbs)
-- In-context information (e.g., tool tips, hints)
+- نشانه‌های بصری (مانند، آیکون‌ها، رنگ‌ها)
+- نشانه‌گذاری (مانند، نان‌خوشه‌ها)
+- اطلاعات در زمینه (مانند، نکات و راهنمایی‌ها)
 
-## Explanation
+## توضیح
 
-Explanation-based interventions provide users with detailed narratives, overviews, or background information that helps them make informed decisions. This may include tutorials, articles, videos, or any other mediums that help explain complex concepts or instructions.
+مداخلات مبتنی بر توضیح، روایت‌ها، نمای کلی یا اطلاعات زمینه‌ای دقیقی را به کاربران ارائه می‌دهند که به آن‌ها کمک می‌کند تا تصمیمات آگاهانه بگیرند. این شامل آموزش‌ها، مقالات، ویدیوها یا هر رسانه دیگری است که به توضیح مفاهیم یا دستورالعمل‌های پیچیده کمک می‌کند.
 
-_Examples:_
+_نمونه‌ها:_
 
-- Multimedia tutorials
-- Articles or blog posts
-- Infographics or diagrams
+- آموزش‌های چندرسانه‌ای
+- مقالات یا پست‌های وبلاگ
+- اینفوگرافیک‌ها یا نمودارها
 
-## Exploration
+## اکتشاف
 
-Exploration-based interventions encourage users to understand and interact with the product by investigating, asking questions, or searching for solutions on their own. This can be done by providing interactive elements, multiple pathways, and opportunities for discovery.
+مداخلات مبتنی بر اکتشاف کاربران را تشویق می‌کنند تا با محصول آشنا شوند و از طریق تحقیق، پرسش یا جستجو برای راه‌حل‌ها به تعامل بپردازند. این می‌تواند با ارائه عناصر تعاملی، مسیرهای متعدد و فرصت‌های کشف انجام شود.
 
-_Examples:_
+_نمونه‌ها:_
 
-- Interactive simulations or models
-- Advanced search capabilities
-- Multiple UI paths for task completion
+- شبیه‌سازی‌ها یا مدل‌های تعاملی
+- قابلیت‌های جستجوی پیشرفته
+- مسیرهای متعدد UI برای تکمیل وظایف
 
-## Creation
+## خلق
 
-Creation-based interventions engage users by offering them the tools and resources to co-create or customize their experience. This type of intervention often involves a more extensive level of input and involvement from the user as they become active participants in the design process.
+مداخلات مبتنی بر خلق کاربران را با ارائه ابزارها و منابعی برای هم‌خلق کردن یا سفارشی‌سازی تجربه‌شان درگیر می‌کنند. این نوع مداخله معمولاً شامل سطح بیشتری از ورودی و مشارکت از سوی کاربر است زیرا آن‌ها به شرکت‌کنندگان فعالی در فرآیند طراحی تبدیل می‌شوند.
 
-_Examples:_
+_نمونه‌ها:_
 
-- Customizable user interfaces
-- Allowing users to create their content
-- Enabling users to manage their preferences, settings, and configurations
+- رابط‌های کاربری قابل تنظیم
+- اجازه به کاربران برای ایجاد محتوای خود
+- امکان مدیریت ترجیحات، تنظیمات و پیکربندی‌ها برای کاربران
 
-With this spectrum in mind, it is essential as a UX designer to analyze which types of thinking interventions are most relevant to your target users and design the most accessible and effective solutions. Always consider how these interventions will influence users' decision-making processes and their overall satisfaction with your digital product or service.
+با در نظر داشتن این طیف، به عنوان یک طراح UX ضروری است که تحلیل کنید کدام نوع از مداخلات تفکری برای کاربران هدف شما بیشتر مرتبط است و راه‌حل‌های قابل دسترس و مؤثرتری طراحی کنید. همواره در نظر داشته باشید که این مداخلات چگونه بر فرآیندهای تصمیم‌گیری کاربران و رضایت کلی آن‌ها از محصول یا خدمت دیجیتال شما تأثیر می‌گذارد.
