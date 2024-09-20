@@ -1,13 +1,12 @@
-# BJ Fogg's Behavior Model
+مدل رفتار بی‌جی فُگ
 
-B.J. Fogg, a renowned psychologist, and researcher at Stanford University, proposed the [Fogg Behavior Model (FBM)](https://www.behaviormodel.org/). This insightful model helps UX designers understand and influence user behavior by focusing on three core elements. These key factors are motivation, ability, and triggers.
+بی‌جی فُگ، روانشناس و محقق معروف دانشگاه استنفورد، مدل مدل رفتار فُگ (FBM) را پیشنهاد کرد. این مدل هوشمند به طراحان تجربه کاربری (UX) کمک می‌کند تا رفتار کاربران را درک کرده و تحت تأثیر قرار دهند و بر سه عنصر اصلی تمرکز دارد: انگیزه، توانایی و محرک‌ها.
 
-- **Motivation**: This element emphasizes the user's desire to perform a certain action or attain specific outcomes. Motivation can be linked to three core elements specified as sensation (pleasure/pain), anticipation (hope/fear), and social cohesion (belonging/rejection).
+    انگیزه: این عنصر بر تمایل کاربر به انجام یک عمل خاص یا دستیابی به نتایج مشخص تأکید دارد. انگیزه می‌تواند به سه عنصر اصلی مرتبط باشد: حس (لذت/درد)، پیش‌بینی (امید/ترس) و انسجام اجتماعی (احساس تعلق/رد).
 
-- **Ability**: Ability refers to the user's capacity, both physical and mental, to perform desired actions. To enhance the ability of users, UX designers should follow the principle of simplicity. The easier it is to perform an action, the more likely users will engage with the product. Some factors to consider are time, financial resources, physical efforts, and cognitive load.
+    توانایی: توانایی به ظرفیت کاربر، چه از نظر جسمی و چه ذهنی، برای انجام اقدامات مطلوب اشاره دارد. برای افزایش توانایی کاربران، طراحان UX باید به اصل سادگی توجه کنند. هر چه انجام یک عمل آسان‌تر باشد، احتمال اینکه کاربران با محصول درگیر شوند بیشتر است. برخی از عوامل قابل توجه شامل زمان، منابع مالی، تلاش‌های جسمی و بار شناختی هستند.
 
-- **Triggers**: Triggers are the cues, notifications, or prompts that signal users to take an action. For an action to occur, triggers should be presented at the right time when the user has adequate motivation and ability.
+    محرک‌ها: محرک‌ها نشانه‌ها، اعلان‌ها یا提示‌هایی هستند که کاربران را به انجام یک عمل سوق می‌دهند. برای اینکه یک عمل انجام شود، محرک‌ها باید در زمان مناسب ارائه شوند، زمانی که کاربر انگیزه و توانایی کافی داشته باشد.
 
-UX designers should strive to find the balance between these three factors to facilitate the desired user behavior. By understanding your audience and their needs, implementing clear and concise triggers, and minimizing the effort required for action, the FBM can be an effective tool for designing user-centered products.
-
+طراحان UX باید تلاش کنند تا تعادل مناسبی بین این سه عامل برقرار کنند تا رفتار مطلوب کاربر را تسهیل کنند. با درک مخاطب و نیازهای آن‌ها، پیاده‌سازی محرک‌های واضح و مختصر، و کاهش تلاشی که برای انجام عمل لازم است، مدل FBM می‌تواند ابزاری مؤثر برای طراحی محصولات کاربرمحور باشد.
 - [@official@meaning of BJ fogg's behavior model](https://behaviormodel.org/)
