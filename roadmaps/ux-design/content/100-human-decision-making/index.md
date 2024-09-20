@@ -1,31 +1,29 @@
-# Understanding Human Decision Making
+درک تصمیم‌گیری انسان
 
-Human decision making is the cognitive process through which individuals analyze information, evaluate alternatives, and select a course of action based on their preferences, goals, and desires. It plays a vital role in the field of UX design, as designers must understand how users make decisions in order to create intuitive and efficient interfaces.
+تصمیم‌گیری انسان فرآیند شناختی است که از طریق آن افراد اطلاعات را تحلیل کرده، گزینه‌ها را ارزیابی کرده و بر اساس ترجیحات، اهداف و خواسته‌های خود یک مسیر عمل انتخاب می‌کنند. این درک در طراحی تجربه کاربری (UX) بسیار مهم است، زیرا طراحان باید بفهمند کاربران چگونه تصمیم می‌گیرند تا بتوانند رابط‌های کاربری شهودی و کارآمد ایجاد کنند.
+عوامل مؤثر بر تصمیم‌گیری
 
-## Factors Influencing Decision Making
+    سوگیری‌های شناختی: این‌ها میانبرهای ذهنی یا الگوهای تفکر هستند که می‌توانند بر تصمیم‌گیری تأثیر بگذارند. به عنوان مثال می‌توان به سوگیری لنگر (تکیه بیش از حد بر اطلاعات اولیه) و سوگیری تأیید (جستجوی اطلاعاتی که باورها را تأیید می‌کند) اشاره کرد.
+    احساسات: احساسات می‌توانند به طور قابل توجهی بر تصمیمات تأثیر بگذارند، حتی زمانی که افراد معتقدند انتخاب‌های منطقی می‌کنند. طراحان UX باید در نظر بگیرند که چگونه عناصر طراحی می‌توانند احساسات مثبت را برانگیزند و احساسات منفی را کاهش دهند.
+    بار اطلاعاتی زیاد: اطلاعات بیش از حد می‌تواند منجر به بار شناختی شود و بر تصمیم‌گیری تأثیر منفی بگذارد. طراحان UX باید اطلاعات را به گونه‌ای سازماندهی و ارائه دهند که قابل درک و دسترس‌پذیر باشد.
 
-- **Cognitive biases**: These are mental shortcuts or patterns of thinking that can influence decision making. Examples include anchoring bias (relying too heavily on initial information) and confirmation bias (seeking information that confirms beliefs).
-- **Emotions**: Emotions can significantly sway decisions, even when people believe they are making rational choices. UX designers should consider how design elements can elicit positive emotions and minimize negative ones.
-- **Information overload**: Too much information can lead to cognitive overload and negatively impact decision making. UX designers need to organize and present information in a digestible and accessible way.
+مدل‌های تصمیم‌گیری
 
-## Decision Making Models
+آشنایی با مدل‌های مختلف تصمیم‌گیری به طراحان UX کمک می‌کند تا رابط‌هایی ایجاد کنند که به نیازها و ترجیحات متنوع کاربران پاسخ دهند. برخی از مدل‌های رایج عبارتند از:
 
-Understanding different decision-making models helps UX designers create interfaces that cater to various user needs and preferences. Some common models include:
+    مدل جبران‌کننده: در این مدل، افراد تمامی گزینه‌های موجود را به طور سیستماتیک ارزیابی کرده و مزایا و معایب آن‌ها را می‌سنجند. پیامدهای طراحی UX شامل ارائه اطلاعات دقیق، فیلترها و مقایسه‌ها برای کمک به تصمیم‌گیری آگاهانه است.
+    مدل غیرجبران‌کننده: در اینجا، کاربران از مجموعه‌ای از روش‌ها یا میانبرها برای تصمیم‌گیری سریع استفاده می‌کنند. این ممکن است شامل تکیه بر یک ویژگی خاص یا تعیین یک آستانه برای معیارهای خاص باشد. در این موارد، طراحی UX باید بر روی ویژگی‌های کلیدی تأکید کند و فرآیند تصمیم‌گیری را ساده کند.
+    مدل رضایت‌بخش: در این رویکرد، کاربران با انتخاب اولین گزینه‌ای که معیارهای حداقلی آن‌ها را برآورده می‌کند، تصمیم می‌گیرند. طراحان UX باید به پیاده‌سازی ویژگی‌هایی مانند "بهترین انتخاب‌ها" و پیشنهادات توجه کنند تا از این سبک تصمیم‌گیری حمایت کنند.
 
-- **Compensatory model**: In this model, individuals consider all available options, weighing their pros and cons in a systematic manner. UX design implications include providing detailed information, filters, and comparisons to help users make informed decisions.
-- **Non-compensatory model**: Here, users employ a variety of heuristics or shortcuts to make decisions quickly. This may involve relying on a single attribute or establishing a threshold for certain criteria. In these cases, UX design should focus on highlighting key features and simplifying the decision-making process.
-- **Satisficing model**: In this approach, users make decisions by selecting the first available option that meets their minimum criteria. UX designers should consider implementing features like 'top choices' and recommendations to support this decision-making style.
+اصول طراحی برای حمایت از تصمیم‌گیری
 
-## Design Principles for Supporting Decision Making
+برای بهبود تجربه تصمیم‌گیری کاربر، به اصول زیر توجه کنید:
 
-To enhance user decision-making experience, consider the following principles:
+    افشای تدریجی: اطلاعات را به تدریج ارائه دهید تا از سردرگمی کاربران جلوگیری شود. این تکنیک می‌تواند شامل استفاده از توضیحات مختصر، برچسب‌ها و بخش‌های قابل گسترش باشد.
+    کمک‌های شناختی: به کاربران در یادآوری اطلاعات یا وظایف مهم با ارائه یادآوری‌ها، اعلان‌ها و نشانه‌های بصری به موقع کمک کنید.
+    بازخورد: بازخورد فوری می‌تواند به کاربران کمک کند تا نتایج تصمیمات خود را درک کنند و آن‌ها را به سمت نتایج مطلوب هدایت کند. این می‌تواند از طریق نشانه‌های بصری، پیام‌ها و انیمیشن‌ها حاصل شود.
+    پیش‌فرض‌ها: از پیش‌فرض‌های هوشمند استفاده کنید تا به کاربران در تصمیم‌گیری در یک زمینه مناسب کمک کنید، که می‌تواند از فرم‌های پرشده تا گزینه‌های پیشنهادی متغیر باشد.
 
-- **Progressive disclosure**: Present information gradually to avoid overwhelming users. This technique can include using tooltips, labels and expanding sections.
-- **Cognitive aids**: Help users remember important information or tasks by providing timely reminders, notifications, and visual cues.
-- **Feedback**: Instant feedback can help users understand the results of their decisions and guide them towards desired outcomes. This can be achieved through visual cues, messages, and animations.
-- **Defaults**: Use smart defaults to help users make decisions in a context-appropriate manner, which could range from pre-filled forms to suggested options.
-
-Understanding human decision making and incorporating these principles into UX design will enable designers to create more intuitive, enjoyable, and efficient user experiences.
-
+درک تصمیم‌گیری انسان و به‌کارگیری این اصول در طراحی UX به طراحان این امکان را می‌دهد که تجربیات کاربری شهودی، لذت‌بخش و کارآمدتری ایجاد کنند.
 - [@video@Types of Cognitive Bias](https://www.youtube.com/watch?v=wEwGBIr_RIw)
 - [@article@List of Cognitive Biases](https://thedecisionlab.com/biases)
